@@ -2280,8 +2280,8 @@ secret: "123456"
 # ========================
 dns:
   default-nameserver:
-    - 1.1.1.2
-    - 77.88.8.88
+    - 1.1.1.1
+    - 8.8.8.8
   enable: true
   enhanced-mode: fake-ip
   fake-ip-filter:
