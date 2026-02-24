@@ -17,15 +17,11 @@
 
 ---
 
-
-
 ## ☕ 打赏支持
 
 | 微信 |
 |:---:|
 | ![微信](Donation/WeChatReward.png) |
-[<img src="/Donation/WeChatReward.png" height="160">](Donation/WeChatReward.png)
-
 
 ---
 
