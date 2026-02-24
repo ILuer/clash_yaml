@@ -1,13 +1,9 @@
 # ClashFreeSub
 
-[![License](https://img.shields.io/github/license/ILuer/clash_yaml)](https://github.com/ILuer/clash_yaml/blob/main/LICENSE)
-[![TG](https://img.shields.io/badge/Telegram-群组-blue?logo=Telegram)](https://t.me/+vvqaLx7Mcgc2NmJl)
+[![License](https://img.shields.io/github/license/ILuer/clash_yaml)](https://github.com/ILuer/clash_yaml/blob/main/LICENSE)  [![TG](https://img.shields.io/badge/Telegram-群组-blue?logo=Telegram)](https://t.me/+vvqaLx7Mcgc2NmJl)
 
 ### 🚀 Clash多终端订阅适配（Clash Mi）
-
-> 订阅节点自动更新，支持多种客户端格式
-
-[<img src="https://clashmi.app/img/app_iconx_256.png" height="160">](https://clashmi.app/img/app_iconx_256.png)
+![ClashMi_iconx](https://clashmi.app/img/app_iconx_256.png)
 
 ---
 
@@ -66,5 +62,4 @@ https://raw.githubusercontent.com/ILuer/clash_yaml/main/clash_fallback.yaml
 ---
 
 ## 📈 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ILuer/clash_yaml&type=Date)](https://star-history.com/#ILuer/clash_yaml&Date)
+![https://api.star-history.com/svg?repos=ILuer/clash_yaml&type=Date](https://api.star-history.com/svg?repos=ILuer/clash_yaml&type=Date)
