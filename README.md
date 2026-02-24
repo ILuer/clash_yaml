@@ -7,13 +7,13 @@
 
 > 订阅节点自动更新，支持多种客户端格式
 
-[<img src="https://api.gitsponsors.com/api/badge/img?id=718875190" height="90">](https://api.gitsponsors.com/api/badge/link?p=MV63dnVOLUBmKUp0qtB3k+mFleU4iY6/RXG3sc+pK6ATaymuh24DF+Kj856I1mnKxnJBXrwSrPp+8ejR4f01jRrBBxRWQ4ai7K9zYGgAC0gXh7QOGCc9qpwUFtTPcc7xhOaIWhTh59g3CxK0HamBJw==)
+[<img src="https://clashmi.app/img/app_iconx_256.png" height="90">](https://clashmi.app/img/app_iconx_256.png)
 
 ---
 
 ## ⭐ 欢迎 Star
 
-如果觉得项目有帮助，请点击右上角 **Star** 支持一下，感谢！
+如果项目有帮到你，还请右上 **Star** 一下，谢谢！
 
 ---
 
@@ -23,7 +23,7 @@
 
 | 微信 |
 |:---:|
-| ![微信](Donation/微信.png) |
+| ![微信](Donation/WeChatReward.png) |
 
 
 
