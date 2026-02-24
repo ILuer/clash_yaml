@@ -25,7 +25,9 @@
 |:---:|
 | ![微信](Donation/WeChatReward.png) |
 
-
+| 支付宝 | 微信 |
+|:---:|:---:|
+| ![支付宝](FUNDING/支付宝.png) | ![微信](Donation/WeChatReward.png) |
 
 ---
 
