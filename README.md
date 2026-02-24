@@ -7,7 +7,7 @@
 
 > 订阅节点自动更新，支持多种客户端格式
 
-[<img src="https://clashmi.app/img/app_iconx_256.png" height="90">](https://clashmi.app/img/app_iconx_256.png)
+[<img src="https://clashmi.app/img/app_iconx_256.png" height="160">](https://clashmi.app/img/app_iconx_256.png)
 
 ---
 
@@ -24,10 +24,8 @@
 | 微信 |
 |:---:|
 | ![微信](Donation/WeChatReward.png) |
+[<img src="/Donation/WeChatReward.png" height="160">](Donation/WeChatReward.png)
 
-| 支付宝 | 微信 |
-|:---:|:---:|
-| ![支付宝](FUNDING/支付宝.png) | ![微信](Donation/WeChatReward.png) |
 
 ---
 
