@@ -67,4 +67,4 @@ https://raw.githubusercontent.com/ILuer/clash_yaml/main/clash_fallback.yaml
 
 ## 📈 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Ruk1ng001/freeSub&type=Date)](https://star-history.com/#Ruk1ng001/freeSub&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=ILuer/clash_yaml&type=Date)](https://star-history.com/#ILuer/clash_yaml&Date)
