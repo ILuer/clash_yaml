@@ -21,26 +21,6 @@ proxies:
   - {name: 拒绝, type: reject}
 #======cpstart======
   - cipher: rc4-md5
-    name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_42193316"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8745
-    server: efan9863.dns8656815.com
-    type: ss
-  - cipher: rc4-md5
-    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_4869831e"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8754
-    server: efan9863.dns8656815.com
-    type: ss
-  - cipher: rc4-md5
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_b721ebd0"
     password: efanccyun
     plugin: obfs
@@ -58,6 +38,26 @@ proxies:
       host: 202601222350462-dVNbGD4Umj.download.microsoft.com
       mode: http
     port: 8752
+    server: efan9863.dns8656815.com
+    type: ss
+  - cipher: rc4-md5
+    name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_42193316"
+    password: efanccyun
+    plugin: obfs
+    plugin-opts:
+      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
+      mode: http
+    port: 8745
+    server: efan9863.dns8656815.com
+    type: ss
+  - cipher: rc4-md5
+    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_4869831e"
+    password: efanccyun
+    plugin: obfs
+    plugin-opts:
+      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
+      mode: http
+    port: 8754
     server: efan9863.dns8656815.com
     type: ss
   - cipher: rc4-md5
@@ -81,16 +81,6 @@ proxies:
     server: efan9863.dns8656815.com
     type: ss
   - cipher: rc4-md5
-    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_69bfef7d"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8758
-    server: efan9863.dns8656815.com
-    type: ss
-  - cipher: rc4-md5
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_350ac153"
     password: efanccyun
     plugin: obfs
@@ -100,13 +90,6 @@ proxies:
     port: 8755
     server: efan9863.dns8656815.com
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F9E0\U0001F4FA✨]_github.com/Ruk1ng001_3c7e5038"
-    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
-    port: 32062
-    server: hk14.network-cdn-gw-yd.net
-    type: ss
-    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_efa09733"
     password: efanccyun
@@ -149,16 +132,6 @@ proxies:
     type: ss
     udp: true
   - cipher: rc4-md5
-    name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c984600d"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8750
-    server: efan9863.dns8656815.com
-    type: ss
-  - cipher: rc4-md5
     name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA✨]_github.com/Ruk1ng001_8d95d609"
     password: efanccyun
     plugin: obfs
@@ -166,6 +139,16 @@ proxies:
       host: 202601222350462-dVNbGD4Umj.download.microsoft.com
       mode: http
     port: 8749
+    server: efan9863.dns8656815.com
+    type: ss
+  - cipher: rc4-md5
+    name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c984600d"
+    password: efanccyun
+    plugin: obfs
+    plugin-opts:
+      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
+      mode: http
+    port: 8750
     server: efan9863.dns8656815.com
     type: ss
   - cipher: rc4-md5
@@ -179,16 +162,6 @@ proxies:
     server: efan9863.dns8656815.com
     type: ss
   - cipher: rc4-md5
-    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_92bc6820"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8719
-    server: efan9863.dns8656815.com
-    type: ss
-  - cipher: rc4-md5
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_69f2e287"
     password: efanccyun
     plugin: obfs
@@ -198,6 +171,16 @@ proxies:
     port: 8718
     server: efan9863.dns8656815.com
     type: ss
+  - cipher: rc4-md5
+    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_92bc6820"
+    password: efanccyun
+    plugin: obfs
+    plugin-opts:
+      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
+      mode: http
+    port: 8719
+    server: efan9863.dns8656815.com
+    type: ss
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_471e7e72"
     password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
@@ -205,18 +188,16 @@ proxies:
     server: hk15.network-cdn-gw-yd.net
     type: ss
     udp: true
-  - alterId: "64"
-    cipher: auto
-    name: "\U0001F7E1\U0001F1E8\U0001F1F3_github.com/Ruk1ng001_718283ff"
+  - client-fingerprint: chrome
+    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_ac49f118"
     network: tcp
-    port: 59003
-    server: 183.236.51.36
-    skip-cert-verify: false
-    tls: false
-    type: vmess
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55014
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
     udp: true
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-    xudp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F9E0\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_2b73c637"
     password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
@@ -252,42 +233,11 @@ proxies:
     server: hkp9.network-cdn-gw-yd.net
     type: ss
     udp: true
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AA\U0001F4E6]_github.com/Ruk1ng001_bd747981"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55011
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD✨]_github.com/Ruk1ng001_f0434027"
     password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
     port: 49904
     server: hkp4.network-cdn-gw-yd.net
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf
-    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F9E0\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_f7b24f37"
-    password: asd123456
-    port: 8388
-    server: 103.149.182.105
-    type: ss
-    udp: true
-  - cipher: 2022-blake3-aes-256-gcm
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a730331e"
-    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
-    port: 12523
-    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
-    tfo: false
-    type: ss
-    udp: true
-  - cipher: 2022-blake3-aes-256-gcm
-    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d5bfe300"
-    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
-    port: 12752
-    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
-    tfo: false
     type: ss
     udp: true
   - cipher: chacha20-ietf-poly1305
@@ -317,6 +267,13 @@ proxies:
     port: 8757
     server: efan9863.dns8656815.com
     type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F9E0\U0001F4FA✨]_github.com/Ruk1ng001_3c7e5038"
+    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
+    port: 32062
+    server: hk14.network-cdn-gw-yd.net
+    type: ss
+    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_5055b98f"
     password: efanccyun
@@ -327,34 +284,6 @@ proxies:
     port: 8711
     server: efan9863.dns8656815.com
     type: ss
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_3979eaea"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55014
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - alterId: "64"
-    cipher: auto
-    name: "\U0001F7E1\U0001F1E8\U0001F1F3_github.com/Ruk1ng001_89b36625"
-    network: tcp
-    port: 59003
-    server: 183.236.51.36
-    skip-cert-verify: false
-    tls: false
-    type: vmess
-    udp: true
-    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-    xudp: true
-  - name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_fb5bd973"
-    password: c5f50b0f-3c12-40ed-b63f-74f9c88316a5
-    port: 55022
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_1b468898"
     password: efanccyun
@@ -365,6 +294,13 @@ proxies:
     port: 8756
     server: efan9863.dns8656815.com
     type: ss
+  - cipher: aes-256-gcm
+    name: "\U0001F534\U0001F1ED\U0001F1F0_github.com/Ruk1ng001_4bd1ce35"
+    password: 176c983f-6a7f-4a96-9865-891a6c48ec86
+    port: 50000
+    server: a001.standard-nodes-chickenfarms.com
+    type: ss
+    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_9a556c95"
     password: efanccyun
@@ -375,12 +311,27 @@ proxies:
     port: 8742
     server: efan9863.dns8656815.com
     type: ss
-  - cipher: aes-256-gcm
-    name: "\U0001F534\U0001F1ED\U0001F1F0_github.com/Ruk1ng001_4bd1ce35"
-    password: 176c983f-6a7f-4a96-9865-891a6c48ec86
-    port: 50000
-    server: a001.standard-nodes-chickenfarms.com
-    type: ss
+  - alterId: "64"
+    cipher: auto
+    name: "\U0001F7E1\U0001F1E8\U0001F1F3_github.com/Ruk1ng001_718283ff"
+    network: tcp
+    port: 59003
+    server: 183.236.51.36
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    xudp: true
+  - client-fingerprint: chrome
+    name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_52012d12"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55012
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
     udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_af70bf62"
@@ -392,6 +343,16 @@ proxies:
     port: 8722
     server: efan9863.dns8656815.com
     type: ss
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_88e93d60"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55013
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_5301cf54"
     password: efanccyun
@@ -402,13 +363,25 @@ proxies:
     port: 8743
     server: efan9863.dns8656815.com
     type: ss
-  - cipher: 2022-blake3-aes-256-gcm
-    name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_7938716d"
-    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
-    port: 12163
-    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
-    tfo: false
-    type: ss
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_70729f3f"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55011
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_78029ddf"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55023
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
     udp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_4cc152f2"
@@ -418,17 +391,17 @@ proxies:
     type: ss
     udp: true
   - cipher: chacha20-ietf-poly1305
-    name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_08e556d5"
-    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
-    port: 48818
-    server: hkp8.network-cdn-gw-yd.net
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_af47ae9d"
     password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
     port: 47707
     server: hk17.network-cdn-gw-yd.net
+    type: ss
+    udp: true
+  - cipher: chacha20-ietf
+    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC]_github.com/Ruk1ng001_f7b24f37"
+    password: asd123456
+    port: 8388
+    server: 103.149.182.105
     type: ss
     udp: true
   - cipher: rc4-md5
@@ -449,6 +422,21 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_08e556d5"
+    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
+    port: 48818
+    server: hkp8.network-cdn-gw-yd.net
+    type: ss
+    udp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_32679001"
+    password: 36b33cb6-095c-47e7-ae83-445856a7d3ff
+    port: 33904
+    server: 183.236.97.212
+    tfo: true
+    type: ss
+    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a85af70c"
     password: efanccyun
@@ -459,14 +447,6 @@ proxies:
     port: 8746
     server: efan9863.dns8656815.com
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_32679001"
-    password: 36b33cb6-095c-47e7-ae83-445856a7d3ff
-    port: 33904
-    server: 183.236.97.212
-    tfo: true
-    type: ss
-    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA✨]_github.com/Ruk1ng001_bdcf5174"
     password: efanccyun
@@ -477,10 +457,32 @@ proxies:
     port: 8723
     server: efan9863.dns8656815.com
     type: ss
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_42eefec5"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55012
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+  - alterId: "64"
+    cipher: auto
+    name: "\U0001F7E1\U0001F1E8\U0001F1F3_github.com/Ruk1ng001_89b36625"
+    network: tcp
+    port: 59003
+    server: 183.236.51.36
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+    xudp: true
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_4f1af9c4"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 12400
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_4dbedc5a"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55022
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
     skip-cert-verify: true
     sni: www.h3yun.com
     type: trojan
@@ -523,6 +525,12 @@ proxies:
     port: 8725
     server: efan9863.dns8656815.com
     type: ss
+  - cipher: chacha20-ietf
+    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD✈️]_github.com/Ruk1ng001_6ce13559"
+    password: asd123456
+    port: 8388
+    server: 103.149.183.113
+    type: ss
   - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e2878083"
     password: 366efee9-09fd-4365-8873-63f77468999c
     port: 55032
@@ -530,6 +538,13 @@ proxies:
     skip-cert-verify: true
     sni: www.h3yun.com
     type: trojan
+    udp: true
+  - cipher: chacha20-ietf
+    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F9E0\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_AJrBnYnC"
+    password: asd123456
+    port: 8388
+    server: 103.149.182.105
+    type: ss
     udp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD✨]_github.com/Ruk1ng001_9395a2c6"
@@ -555,18 +570,6 @@ proxies:
     port: 8716
     server: efan9863.dns8656815.com
     type: ss
-  - down: ""
-    fingerprint: ""
-    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F9E0\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_857975a7"
-    obfs: ""
-    obfs-password: ""
-    password: df1236a0-6caa-4078-96f2-88cd071c3970
-    port: 21775
-    server: hk.xn--ehqa22b.site
-    skip-cert-verify: false
-    sni: ""
-    type: hysteria2
-    up: ""
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d1734278"
     password: efanccyun
@@ -577,14 +580,6 @@ proxies:
     port: 8753
     server: efan9863.dns8656815.com
     type: ss
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_ef2ae454"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55013
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_ee5215bd"
     password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
@@ -617,26 +612,19 @@ proxies:
     tfo: true
     type: ss
     udp: true
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_b1a16af4"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55024
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e979465c"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 14628
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
     udp: true
   - cipher: aes-256-gcm
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F39E️]_github.com/Ruk1ng001_ec27cd1a"
     password: UnXzRXhUMbaV7SpL
     port: 6356
     server: c721s1.portablesubmarines.com
-    type: ss
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_8b567f37"
-    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
-    port: 46604
-    server: tw04.network-cdn-gw-yd.net
     type: ss
     udp: true
   - cipher: chacha20-ietf-poly1305
@@ -647,9 +635,26 @@ proxies:
     tfo: true
     type: ss
     udp: true
-  - name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_35e3e504"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55024
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_8b567f37"
+    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
+    port: 46604
+    server: tw04.network-cdn-gw-yd.net
+    type: ss
+    udp: true
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F916\U0001F4FA\U0001F3AA\U0001F4E6]_github.com/Ruk1ng001_7938716d"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 12163
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_8160f815"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55021
     server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
     skip-cert-verify: true
     sni: www.h3yun.com
@@ -675,12 +680,26 @@ proxies:
     port: 8739
     server: efan9863.dns8656815.com
     type: ss
-  - cipher: 2022-blake3-aes-128-gcm
-    name: "⚪\U0001F3F3️[\U0001F4E6\U0001F50D]_github.com/Ruk1ng001_69e02837"
-    password: MDhhMTdjZDI0MjI2ZWRlNg==:YzFmMWJkZWItZjhiNC00NQ==
-    port: 29527
-    server: dafeizhu.whtjdasha.com
-    type: ss
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_4c73ba1e"
+    port: 6004
+    server: cn02.365cloud5878.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574
+    xudp: true
+  - client-fingerprint: chrome
+    name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_7dc02fbc"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55024
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
     udp: true
   - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_6773b80c"
     password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
@@ -689,6 +708,13 @@ proxies:
     skip-cert-verify: true
     sni: www.h3yun.com
     type: trojan
+    udp: true
+  - cipher: 2022-blake3-aes-128-gcm
+    name: "⚪\U0001F3F3️[\U0001F4E6\U0001F50D]_github.com/Ruk1ng001_69e02837"
+    password: MDhhMTdjZDI0MjI2ZWRlNg==:YzFmMWJkZWItZjhiNC00NQ==
+    port: 29527
+    server: dafeizhu.whtjdasha.com
+    type: ss
     udp: true
   - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_555d1e42"
     password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
@@ -706,14 +732,6 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_163a56bf"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55023
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - cipher: chacha20-ietf
     name: "\U0001F534\U0001F1ED\U0001F1F0_github.com/Ruk1ng001_a777e2be"
     password: asd123456
@@ -721,22 +739,6 @@ proxies:
     server: 103.149.183.80
     type: ss
     udp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1ED\U0001F1F0_github.com/Ruk1ng001_76e3673c"
-    network: ws
-    port: 47790
-    server: 36.50.90.241
-    servername: sni.111000.dynv6.net
-    tls: true
-    type: vless
-    udp: true
-    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
-    ws-opts:
-      headers:
-        Host: sni.111000.dynv6.net
-        User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
-      path: "/?ed=2560&Telegram\U0001F1E8\U0001F1F3+@WangCai2"
-    xudp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -762,16 +764,6 @@ proxies:
     type: ss
     udp: true
   - cipher: rc4-md5
-    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_2ea3485c"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8720
-    server: efan9863.dns8656815.com
-    type: ss
-  - cipher: rc4-md5
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a3a71fe3"
     password: efanccyun
     plugin: obfs
@@ -781,6 +773,24 @@ proxies:
     port: 8715
     server: efan9863.dns8656815.com
     type: ss
+  - cipher: rc4-md5
+    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_2ea3485c"
+    password: efanccyun
+    plugin: obfs
+    plugin-opts:
+      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
+      mode: http
+    port: 8720
+    server: efan9863.dns8656815.com
+    type: ss
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_3b0b1113"
+    password: VJE3om53Iz5t3ugNa57KYNW79ZBrgxCtMXfMw+RKrEc=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 13952
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
+    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a127af7b"
     password: efanccyun
@@ -819,6 +829,26 @@ proxies:
     tfo: true
     type: ss
     udp: true
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_13a286de"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55011
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_0bdff9f9"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55014
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - alterId: "0"
     cipher: auto
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_ea2207ff"
@@ -845,6 +875,26 @@ proxies:
     port: 8765
     server: efan9863.dns8656815.com
     type: ss
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_1aab4385"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55031
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_3ac9efae"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55032
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_6ca72df9"
     password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
     port: 55034
@@ -858,6 +908,15 @@ proxies:
     password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
     port: 45507
     server: sgp02.network-cdn-gw-yd.net
+    type: ss
+    udp: true
+  - cipher: aes-256-cfb
+    client-fingerprint: chrome
+    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_dc55e4a8"
+    password: qwerREWQ@@
+    port: 41632
+    server: 112.213.102.188
+    tfo: true
     type: ss
     udp: true
   - cipher: rc4-md5
@@ -880,13 +939,6 @@ proxies:
     port: 8727
     server: efan9863.dns8656815.com
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e929de5e"
-    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
-    port: 45506
-    server: sgp01.network-cdn-gw-yd.net
-    type: ss
-    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_21164aae"
     password: efanccyun
@@ -897,12 +949,13 @@ proxies:
     port: 8748
     server: efan9863.dns8656815.com
     type: ss
-  - cipher: chacha20-ietf
-    name: "\U0001F534\U0001F1ED\U0001F1F0_github.com/Ruk1ng001_6ce13559"
-    password: asd123456
-    port: 8388
-    server: 103.149.183.113
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e929de5e"
+    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
+    port: 45506
+    server: sgp01.network-cdn-gw-yd.net
     type: ss
+    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F2\U0001F1FE[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_ec2e87d4"
     password: efanccyun
@@ -921,14 +974,6 @@ proxies:
     tfo: true
     type: ss
     udp: true
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_d9057e8a"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55043
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - cipher: aes-128-gcm
     name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_390d05a7"
     password: 4cb0dea7-5e98-43f9-a578-50c12c9af8d2
@@ -936,14 +981,27 @@ proxies:
     server: k1h88ows.2228333.xyz
     type: ss
     udp: true
-  - name: "\U0001F7E1\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_7bf0ebe1"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55042
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+  - client-fingerprint: chrome
+    name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_4248c64b"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55012
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
     skip-cert-verify: true
     sni: www.h3yun.com
     type: trojan
     udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_37a12a5e"
+    port: 6001
+    server: cn02.365cloud5878.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574
+    xudp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_1688581b"
     password: efanccyun
@@ -954,6 +1012,16 @@ proxies:
     port: 8726
     server: efan9863.dns8656815.com
     type: ss
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_34d20737"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55023
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_445bbb77"
     password: efanccyun
@@ -962,32 +1030,6 @@ proxies:
       host: 202601222350462-dVNbGD4Umj.download.microsoft.com
       mode: http
     port: 8761
-    server: efan9863.dns8656815.com
-    type: ss
-  - name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_f396dff1"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55023
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_cea73dd4"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55023
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - cipher: rc4-md5
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_15dae05c"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8728
     server: efan9863.dns8656815.com
     type: ss
   - cipher: rc4-md5
@@ -1000,12 +1042,34 @@ proxies:
     port: 8730
     server: efan9863.dns8656815.com
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_488d1d62"
-    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
-    port: 48803
-    server: jp3.network-cdn-gw-yd.net
+  - cipher: rc4-md5
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_15dae05c"
+    password: efanccyun
+    plugin: obfs
+    plugin-opts:
+      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
+      mode: http
+    port: 8728
+    server: efan9863.dns8656815.com
     type: ss
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_1b694891"
+    port: 6002
+    server: cn02.365cloud5878.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574
+    xudp: true
+  - name: "\U0001F7E1\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_5b2f6329"
+    password: 366efee9-09fd-4365-8873-63f77468999c
+    port: 55043
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
     udp: true
   - client-fingerprint: chrome
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_f3922dd2"
@@ -1017,21 +1081,30 @@ proxies:
     sni: www.volcengine.com
     type: trojan
     udp: true
-  - name: "\U0001F7E1\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_5b2f6329"
-    password: 366efee9-09fd-4365-8873-63f77468999c
-    port: 55043
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_488d1d62"
+    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
+    port: 48803
+    server: jp3.network-cdn-gw-yd.net
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_ad92eda0"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55033
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
     skip-cert-verify: true
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_74ab39f5"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55041
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_4a8297e4"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 14625
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
     udp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a05f5a94"
@@ -1056,17 +1129,11 @@ proxies:
     tfo: true
     type: ss
     udp: true
-  - cipher: 2022-blake3-aes-256-gcm
-    name: "\U0001F7E2\U0001F1F5\U0001F1ED[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e6e59a1c"
-    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
-    port: 13144
-    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
-    tfo: false
-    type: ss
-    udp: true
-  - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_ce32f8a7"
-    password: 366efee9-09fd-4365-8873-63f77468999c
-    port: 55034
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_19b412da"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55042
     server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
     skip-cert-verify: true
     sni: www.h3yun.com
@@ -1079,37 +1146,24 @@ proxies:
     server: vn01.network-cdn-gw-yd.net
     type: ss
     udp: true
-  - cipher: chacha20-ietf
-    name: "\U0001F534\U0001F1ED\U0001F1F0_github.com/Ruk1ng001_AJrBnYnC"
-    password: asd123456
-    port: 8388
-    server: 103.149.182.105
-    type: ss
-    udp: true
-  - cipher: 2022-blake3-aes-256-gcm
-    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c2f1006f"
-    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
-    port: 14630
-    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
-    tfo: false
-    type: ss
+  - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_ce32f8a7"
+    password: 366efee9-09fd-4365-8873-63f77468999c
+    port: 55034
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
     udp: true
   - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_5c5c38ee"
-    network: ws
-    port: 443
-    server: zrf666.cf.090227.xyz
-    servername: snip.zrf.ndjp.net
-    tls: true
-    type: vless
+    name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_f01c004d"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55034
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
     udp: true
-    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
-    ws-opts:
-      headers:
-        Host: snip.zrf.ndjp.net
-        User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US) AppleWebKit/534.3 (KHTML, like Gecko) Chrome/6.0.472.63 Safari/534.3
-      path: /?ed=2560
-    xudp: true
   - alterId: "0"
     cipher: auto
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_da3554a7"
@@ -1126,18 +1180,6 @@ proxies:
         Host: 7cfbb1888f513ff270997dcf734a556e.mobgslb.tbcache.com
       path: /
     xudp: true
-  - down: ""
-    fingerprint: ""
-    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_849e07c7"
-    obfs: ""
-    obfs-password: ""
-    password: fe0fda62-79ff-467e-bef4-983322c1d21b
-    port: 56309
-    server: hkt.ccwink.cc
-    skip-cert-verify: true
-    sni: hkt.ccwink.cc
-    type: hysteria2
-    up: ""
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AD\U0001F3AA✨]_github.com/Ruk1ng001_2e6e85bb"
     password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
@@ -1146,13 +1188,29 @@ proxies:
     type: ss
     udp: true
   - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d30733f6"
+    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_3db357be"
+    network: ws
+    port: 443
+    server: 104.18.38.145
+    servername: snip.lsmoo.pp.ua
+    tls: true
+    type: vless
+    udp: true
+    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
+    ws-opts:
+      headers:
+        Host: snip.lsmoo.pp.ua
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_70b1ef1e"
     network: tcp
-    password: 2072ff46-45f4-4de0-8099-c5bf240e0714
-    port: 55017
-    server: 0279dfd9-f96e-4f81-ba3b-cd1f47cc973c.huxx.top
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55022
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
     skip-cert-verify: true
-    sni: www.volcengine.com
+    sni: www.h3yun.com
     type: trojan
     udp: true
   - cipher: rc4-md5
@@ -1165,12 +1223,25 @@ proxies:
     port: 8606
     server: efan9863.dns8656815.com
     type: ss
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_23e2e677"
-    password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
-    port: 32013
-    server: v3s01.78787878.top
-    type: ss
+  - client-fingerprint: chrome
+    name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_5a917563"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55032
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d30733f6"
+    network: tcp
+    password: 2072ff46-45f4-4de0-8099-c5bf240e0714
+    port: 55017
+    server: 0279dfd9-f96e-4f81-ba3b-cd1f47cc973c.huxx.top
+    skip-cert-verify: true
+    sni: www.volcengine.com
+    type: trojan
     udp: true
   - name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_510b65c6"
     password: 366efee9-09fd-4365-8873-63f77468999c
@@ -1188,6 +1259,13 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_23e2e677"
+    password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
+    port: 32013
+    server: v3s01.78787878.top
+    type: ss
+    udp: true
   - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AD\U0001F3AA✨]_github.com/Ruk1ng001_5b4d8148"
     password: 366efee9-09fd-4365-8873-63f77468999c
     port: 55014
@@ -1203,25 +1281,31 @@ proxies:
     server: v2a003.78787878.top
     type: ss
     udp: true
-  - name: "\U0001F7E1\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_c2118c2c"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55044
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_4d376565"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
+  - client-fingerprint: chrome
+    name: "\U0001F7E1\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_d7f63121"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
     port: 55044
     server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
     skip-cert-verify: true
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_f2df130b"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55011
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_dbf5e081"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55024
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_c8bfe33e"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55034
     server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
     skip-cert-verify: true
     sni: www.h3yun.com
@@ -1243,22 +1327,6 @@ proxies:
         Host: 3dfc06a29f8ae09dec34988159d21bee.mobgslb.tbcache.com
       path: /
     xudp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_621927a7"
-    network: ws
-    port: 443
-    server: 198.41.209.105
-    servername: snip.syt.pp.ua
-    tls: true
-    type: vless
-    udp: true
-    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
-    ws-opts:
-      headers:
-        Host: snip.syt.pp.ua
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
-      path: /?ed=2560
-    xudp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F916\U0001F4FA\U0001F3AA\U0001F4E6]_github.com/Ruk1ng001_4c0a1c32"
     password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
@@ -1279,6 +1347,18 @@ proxies:
     port: 8388
     server: 103.149.183.12
     type: ss
+  - down: ""
+    fingerprint: ""
+    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d75a8411"
+    obfs: ""
+    obfs-password: ""
+    password: fe0fda62-79ff-467e-bef4-983322c1d21b
+    port: 30102
+    server: tw.ccwink.cc
+    skip-cert-verify: true
+    sni: tw.ccwink.cc
+    type: hysteria2
+    up: ""
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1F9\U0001F1ED[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_ca748dc1"
     password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
@@ -1293,22 +1373,6 @@ proxies:
     server: xiaofeizhu.idsduf.com
     type: ss
     udp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_b4be6313"
-    network: ws
-    port: 443
-    server: 104.18.40.30
-    servername: snip.zrf.ee.cd
-    tls: true
-    type: vless
-    udp: true
-    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
-    ws-opts:
-      headers:
-        Host: snip.zrf.ee.cd
-        User-Agent: Mozilla/5.0 (Linux; Android 8.0.0; FIG-LX3 Build/HUAWEIFIG-LX3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
-      path: /?ed=2560
-    xudp: true
   - cipher: 2022-blake3-aes-128-gcm
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_8f2a6117"
     password: MjA0YzgwZjBlM2ZkNmRlNA==:MjA3MmZmNDYtNDVmNC00ZA==
@@ -1332,6 +1396,38 @@ proxies:
     udp: true
     uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
     xudp: true
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_d11080eb"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55044
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
+  - down: ""
+    fingerprint: ""
+    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_849e07c7"
+    obfs: ""
+    obfs-password: ""
+    password: fe0fda62-79ff-467e-bef4-983322c1d21b
+    port: 56309
+    server: hkt.ccwink.cc
+    skip-cert-verify: true
+    sni: hkt.ccwink.cc
+    type: hysteria2
+    up: ""
+  - client-fingerprint: chrome
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_5666d29d"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55042
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - alterId: "0"
     cipher: auto
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_b8343aba"
@@ -1356,20 +1452,6 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - client-fingerprint: chrome
-    flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_5001a6cc"
-    port: 443
-    reality-opts:
-      public-key: mnshlVo5tkzYbmEB9xrgmUHwYETnXLAjjlGAssqaDGI
-      short-id: 436299c6
-    server: pq.aws63.yydjc.top
-    servername: iosapps.itunes.apple.com
-    skip-cert-verify: false
-    tls: true
-    type: vless
-    udp: true
-    uuid: 4a7a311a-6819-4a58-a19f-51bc5af69136
   - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_8ac1c6d5"
     password: 366efee9-09fd-4365-8873-63f77468999c
     port: 55011
@@ -1408,6 +1490,22 @@ proxies:
     port: 8729
     server: efan9863.dns8656815.com
     type: ss
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_aa07f7ac"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 52.199.179.21
+    servername: www.apple.com.cn
+    tls: true
+    type: vless
+    udp: true
+    uuid: 3fe0153a-1608-4658-a9d0-9d73106dab33
+    xudp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_efb53f92"
     password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
@@ -1421,26 +1519,6 @@ proxies:
     port: 34003
     server: v2a003.78787878.top
     type: ss
-    udp: true
-  - down: ""
-    fingerprint: ""
-    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_3c6670a5"
-    obfs: ""
-    obfs-password: ""
-    password: df1236a0-6caa-4078-96f2-88cd071c3970
-    port: 21933
-    server: hk.xn--ehqa22b.site
-    skip-cert-verify: false
-    sni: ""
-    type: hysteria2
-    up: ""
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_b079852a"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55042
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
     udp: true
   - alterId: "0"
     cipher: auto
@@ -1491,14 +1569,6 @@ proxies:
     port: 8768
     server: efan9863.dns8656815.com
     type: ss
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_c1ca57cc"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55014
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - client-fingerprint: chrome
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F4E6]_github.com/Ruk1ng001_73721b41"
     password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
@@ -1583,22 +1653,6 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_406b5cba"
-    network: tcp
-    port: 31411
-    reality-opts:
-      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
-      short-id: b4fae2dd
-    server: 13.114.183.6
-    servername: www.apple.com.cn
-    tls: true
-    type: vless
-    udp: true
-    uuid: 570129b2-fa71-4771-9c97-389f8c1a6a16
-    xudp: true
   - alterId: "0"
     cipher: auto
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_9fd538a5"
@@ -1616,21 +1670,29 @@ proxies:
       path: /
     xudp: true
   - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d5c5a854"
-    network: ws
-    port: 443
-    server: 172.64.229.178
-    servername: snip.vurl.dpdns.org
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_406b5cba"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 13.114.183.6
+    servername: www.apple.com.cn
     tls: true
     type: vless
     udp: true
-    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
-    ws-opts:
-      headers:
-        Host: snip.vurl.dpdns.org
-        User-Agent: Mozilla/5.0 (X11; U; Linux x86_64; en-US) AppleWebKit/533.2 (KHTML, like Gecko) Chrome/5.0.342.1 Safari/533.2
-      path: /?ed=2560
+    uuid: 570129b2-fa71-4771-9c97-389f8c1a6a16
     xudp: true
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AD✨\U0001F4E6]_github.com/Ruk1ng001_9bc02321"
+    password: <password>
+    port: 8443
+    server: 3d60a50f-ta1og0-tkp3tl-1s09x.hkt.cdnhuawei.com
+    sni: 3d60a50f-ta1og0-tkp3tl-1s09x.hkt.cdnhuawei.com
+    tls: true
+    type: http
+    username: 62b7824e-47dc-11ef-9f2d-f23c9164ca5d
   - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_7e892e15"
     password: 366efee9-09fd-4365-8873-63f77468999c
     port: 55034
@@ -1639,23 +1701,14 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - client-fingerprint: chrome
-    encryption: none
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_4228a6c8"
-    network: ws
-    port: 443
-    server: 172.64.147.89
-    servername: edge.121018.de5.net
-    tls: true
-    type: vless
+  - name: "⚪\U0001F3F3️[\U0001F4FA\U0001F3AD\U0001F3AA✨]_github.com/Ruk1ng001_d9d4f0d6"
+    password: 366efee9-09fd-4365-8873-63f77468999c
+    port: 55043
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
     udp: true
-    uuid: 51a43ab3-62fd-4fc4-8196-9e013929f87f
-    ws-opts:
-      headers:
-        Host: edge.121018.de5.net
-        User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36
-      path: /
-    xudp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -1672,13 +1725,13 @@ proxies:
     udp: true
     uuid: d1a2650a-13cc-45ba-8383-40b24b6a8969
     xudp: true
-  - name: "⚪\U0001F3F3️[\U0001F4FA\U0001F3AD\U0001F3AA✨]_github.com/Ruk1ng001_d9d4f0d6"
-    password: 366efee9-09fd-4365-8873-63f77468999c
-    port: 55043
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F534\U0001F1F9\U0001F1ED[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_fa28319a"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 13142
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
     udp: true
   - name: "\U0001F7E1\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d162fca9"
     password: 366efee9-09fd-4365-8873-63f77468999c
@@ -1688,13 +1741,22 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_66ecc11b"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55044
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F7E2\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_ead7bffd"
+    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
+    port: 48801
+    server: jp01.network-cdn-gw-yd.net
+    type: ss
+    udp: true
+  - mport: 60000-65530
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_89abca8e"
+    password: 4a7a311a-6819-4a58-a19f-51bc5af69136
+    port: 60000
+    ports: 60000-65530
+    server: pq.hy.jp4.yydjc.top
     skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
+    sni: www.apple.com
+    type: hysteria2
     udp: true
   - client-fingerprint: chrome
     encryption: none
@@ -1712,13 +1774,22 @@ proxies:
     udp: true
     uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
     xudp: true
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F7E2\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_ead7bffd"
-    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
-    port: 48801
-    server: jp01.network-cdn-gw-yd.net
-    type: ss
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_577ddfd2"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 3.36.124.74
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
     udp: true
+    uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
+    xudp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -1751,6 +1822,14 @@ proxies:
         Host: 3dfc06a29f8ae09dec34988159d21bee.mobgslb.tbcache.com
       path: /
     xudp: true
+  - name: "\U0001F7E1\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_cf18414d"
+    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
+    port: 55041
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -1767,38 +1846,6 @@ proxies:
     udp: true
     uuid: d1a2650a-13cc-45ba-8383-40b24b6a8969
     xudp: true
-  - name: "\U0001F7E1\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_cf18414d"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55041
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA✈️]_github.com/Ruk1ng001_5334963b"
-    password: <password>
-    port: 8443
-    server: 6bf3f2d3-ta1og0-tkhmfr-1jm8i.hkt.cdnhuawei.com
-    sni: 6bf3f2d3-ta1og0-tkhmfr-1jm8i.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: a6ddfc37-05eb-11ed-af40-f23c91cfbbc9
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_09ef1197"
-    password: <password>
-    port: 8443
-    server: 6df231b9-t9zts0-tb74a6-1q9g2.hkt.cdnhuawei.com
-    sni: 6df231b9-t9zts0-tb74a6-1q9g2.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: 9d80dd14-ac44-11ee-a116-f23c9164ca5d
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_5b80ce6f"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55041
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_78347e34"
     password: 366efee9-09fd-4365-8873-63f77468999c
     port: 55033
@@ -1814,14 +1861,29 @@ proxies:
     server: dafeizhu.whtjdasha.com
     type: ss
     udp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AD\U0001F3AA\U0001F4E6]_github.com/Ruk1ng001_33803744"
-    password: <password>
-    port: 8443
-    server: cd345171-t9zts0-tahh2s-tng5.hkt.cdnhuawei.com
-    sni: cd345171-t9zts0-tahh2s-tng5.hkt.cdnhuawei.com
+  - cipher: chacha20-ietf
+    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_b4962b18"
+    password: asd123456
+    port: 8388
+    server: 103.149.182.105
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_85e0ae77"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 13.230.185.248
+    servername: www.apple.com.cn
     tls: true
-    type: http
-    username: 2ec58858-976b-11ea-82ef-f23c9164ca5d
+    type: vless
+    udp: true
+    uuid: d1a2650a-13cc-45ba-8383-40b24b6a8969
+    xudp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -1857,18 +1919,18 @@ proxies:
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_85e0ae77"
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_17386648"
     network: tcp
     port: 31411
     reality-opts:
       public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
       short-id: b4fae2dd
-    server: 13.230.185.248
-    servername: www.apple.com.cn
+    server: 3.36.124.74
+    servername: www.lamer.com.sg
     tls: true
     type: vless
     udp: true
-    uuid: d1a2650a-13cc-45ba-8383-40b24b6a8969
+    uuid: 3fe0153a-1608-4658-a9d0-9d73106dab33
     xudp: true
   - client-fingerprint: chrome
     name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c561cded"
@@ -1882,13 +1944,13 @@ proxies:
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_5bb3d97b"
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_1ac1773f"
     network: tcp
     port: 31411
     reality-opts:
       public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
       short-id: b4fae2dd
-    server: 47.128.217.247
+    server: 13.125.64.60
     servername: www.lamer.com.sg
     tls: true
     type: vless
@@ -1898,13 +1960,13 @@ proxies:
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_1ac1773f"
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_5bb3d97b"
     network: tcp
     port: 31411
     reality-opts:
       public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
       short-id: b4fae2dd
-    server: 13.125.64.60
+    server: 47.128.217.247
     servername: www.lamer.com.sg
     tls: true
     type: vless
@@ -1970,22 +2032,6 @@ proxies:
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_41c499c5"
-    network: tcp
-    port: 31411
-    reality-opts:
-      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
-      short-id: b4fae2dd
-    server: 3.36.115.71
-    servername: www.lamer.com.sg
-    tls: true
-    type: vless
-    udp: true
-    uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
-    xudp: true
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_cd304245"
     network: tcp
     port: 31411
@@ -1994,6 +2040,22 @@ proxies:
       short-id: b4fae2dd
     server: 13.230.185.248
     servername: www.apple.com.cn
+    tls: true
+    type: vless
+    udp: true
+    uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
+    xudp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_41c499c5"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 3.36.115.71
+    servername: www.lamer.com.sg
     tls: true
     type: vless
     udp: true
@@ -2016,15 +2078,6 @@ proxies:
     uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
     xudp: true
   - client-fingerprint: chrome
-    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_ff3c8a90"
-    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
-    port: 12105
-    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
-    skip-cert-verify: false
-    sni: 109.yuanul.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_eff065a2"
@@ -2040,13 +2093,31 @@ proxies:
     udp: true
     uuid: d1a2650a-13cc-45ba-8383-40b24b6a8969
     xudp: true
-  - cipher: 2022-blake3-aes-128-gcm
-    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_2cba8cc1"
-    password: MjA0YzgwZjBlM2ZkNmRlNA==:MjA3MmZmNDYtNDVmNC00ZA==
-    port: 54259
-    server: aws.huxx.top
-    type: ss
+  - client-fingerprint: chrome
+    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_ff3c8a90"
+    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
+    port: 12105
+    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
+    skip-cert-verify: false
+    sni: 109.yuanul.com
+    type: trojan
     udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_b097d364"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 52.199.179.21
+    servername: www.apple.com.cn
+    tls: true
+    type: vless
+    udp: true
+    uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
+    xudp: true
   - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD✨]_github.com/Ruk1ng001_be460a82"
     password: <password>
     port: 8443
@@ -2055,14 +2126,13 @@ proxies:
     tls: true
     type: http
     username: 331cae90-f7e9-11ed-b4e2-f23c913c8d2b
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA]_github.com/Ruk1ng001_ce30f80c"
-    password: <password>
-    port: 8443
-    server: 815413d8-t9zts0-tbnucr-1thfv.hkt.cdnhuawei.com
-    sni: 815413d8-t9zts0-tbnucr-1thfv.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: 0a4d1c88-fb3a-11ef-8c3f-f23c913c8d2b
+  - cipher: 2022-blake3-aes-128-gcm
+    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_2cba8cc1"
+    password: MjA0YzgwZjBlM2ZkNmRlNA==:MjA3MmZmNDYtNDVmNC00ZA==
+    port: 54259
+    server: aws.huxx.top
+    type: ss
+    udp: true
   - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_50979fd9"
     password: 366efee9-09fd-4365-8873-63f77468999c
     port: 55031
@@ -2079,22 +2149,46 @@ proxies:
     tls: true
     type: http
     username: ea76ae7e-ea95-11ef-8b73-f23c91cfbbc9
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a69841b9"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55014
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_9ec47838"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 52.199.179.21
+    servername: www.apple.com.cn
+    tls: true
+    type: vless
     udp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AD]_github.com/Ruk1ng001_94468406"
+    uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
+    xudp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_07304698"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 52.221.224.137
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
+    udp: true
+    uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
+    xudp: true
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_b50ca51b"
     password: <password>
     port: 8443
-    server: 8875d66c-t9zts0-trhks8-1c9em.hkt.cdnhuawei.com
-    sni: 8875d66c-t9zts0-trhks8-1c9em.hkt.cdnhuawei.com
+    server: d475037f-t9zts0-teu3io-1t4wg.hkt.cdnhuawei.com
+    sni: d475037f-t9zts0-teu3io-1t4wg.hkt.cdnhuawei.com
     tls: true
     type: http
-    username: 336501b6-51d2-11ee-a993-f23c9164ca5d
+    username: 1b13e20c-e778-11ef-907f-f23c913c8d2b
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2111,13 +2205,6 @@ proxies:
     udp: true
     uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
     xudp: true
-  - cipher: 2022-blake3-aes-128-gcm
-    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_841fafe5"
-    password: MjA0YzgwZjBlM2ZkNmRlNA==:MjA3MmZmNDYtNDVmNC00ZA==
-    port: 54257
-    server: aws9dfd9.waimaosass.icu
-    type: ss
-    udp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2150,6 +2237,13 @@ proxies:
     udp: true
     uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
     xudp: true
+  - cipher: 2022-blake3-aes-128-gcm
+    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_841fafe5"
+    password: MjA0YzgwZjBlM2ZkNmRlNA==:MjA3MmZmNDYtNDVmNC00ZA==
+    port: 54257
+    server: aws9dfd9.waimaosass.icu
+    type: ss
+    udp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2167,18 +2261,15 @@ proxies:
     uuid: d1a2650a-13cc-45ba-8383-40b24b6a8969
     xudp: true
   - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_8220a9a8"
+    name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_325745dc"
     network: tcp
-    port: 443
-    reality-opts:
-      public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
-      short-id: 2da72ce6
-    server: 154.31.114.125
-    servername: navi.bankrate.com
-    tls: true
-    type: vless
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55041
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
     udp: true
-    uuid: 147ccf68-ca08-4ce9-a507-b0f0d5af119c
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2196,20 +2287,6 @@ proxies:
     uuid: 570129b2-fa71-4771-9c97-389f8c1a6a16
     xudp: true
   - client-fingerprint: chrome
-    name: "⚪\U0001F3F3️_github.com/Ruk1ng001_b42e6a0d"
-    network: ws
-    port: 443
-    server: vip1.kaixincloud.top
-    servername: blackshadow.dpdns.org
-    tls: true
-    type: vless
-    udp: true
-    uuid: 2bcfbfba-b446-4ad5-93ad-72af9e008f61
-    ws-opts:
-      headers:
-        Host: blackshadow.dpdns.org
-      path: /44.209.52.7-443
-  - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_aba12b56"
@@ -2225,6 +2302,24 @@ proxies:
     udp: true
     uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
     xudp: true
+  - mport: 60000-65530
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_93999bfc"
+    password: ee84b9bb-5025-460f-8b56-de84e885d970
+    port: 60000
+    ports: 60000-65530
+    server: pq.hy.jp4.yydjc.top
+    skip-cert-verify: true
+    sni: www.apple.com
+    type: hysteria2
+    udp: true
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a730331e"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 12523
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
+    udp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2266,6 +2361,22 @@ proxies:
     sni: 104.yuanul.com
     type: trojan
     udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_8281ad94"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 3.36.124.74
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
+    udp: true
+    uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
+    xudp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_8cdef8f4"
     password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
@@ -2296,6 +2407,45 @@ proxies:
     server: aws9dfd9.waimaosass.icu
     type: ss
     udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_483d6be0"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 13.158.136.194
+    servername: www.apple.com.cn
+    tls: true
+    type: vless
+    udp: true
+    uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
+    xudp: true
+  - name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_57a88959"
+    password: BxceQaOe
+    port: 29666
+    server: 43.199.43.18
+    skip-cert-verify: true
+    sni: t.me%252Fripaojiedian
+    type: trojan
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_c42ef80e"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 13.229.96.206
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
+    udp: true
+    uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
+    xudp: true
   - alterId: "0"
     cipher: auto
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_7cba8fca"
@@ -2312,6 +2462,16 @@ proxies:
         Host: 7cfbb1888f513ff270997dcf734a556e.mobgslb.tbcache.com
       path: /
     xudp: true
+  - client-fingerprint: chrome
+    name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_10e959fe"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55013
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a669ae04"
     password: efanccyun
@@ -2322,6 +2482,32 @@ proxies:
     port: 8764
     server: efan9863.dns8656815.com
     type: ss
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_b70d48d4"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 52.221.224.137
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
+    udp: true
+    uuid: 3fe0153a-1608-4658-a9d0-9d73106dab33
+    xudp: true
+  - client-fingerprint: chrome
+    name: "\U0001F7E1\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_f41aa905"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55043
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2338,6 +2524,14 @@ proxies:
     udp: true
     uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
     xudp: true
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4E6\U0001F50D]_github.com/Ruk1ng001_7e774230"
+    password: <password>
+    port: 8443
+    server: 9c374276-ta1og0-tm3dx0-1r9dt.hkt.cdnhuawei.com
+    sni: 9c374276-ta1og0-tm3dx0-1r9dt.hkt.cdnhuawei.com
+    tls: true
+    type: http
+    username: de003c72-0157-11ef-86da-f23c91cfbbc9
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2354,22 +2548,30 @@ proxies:
     udp: true
     uuid: 570129b2-fa71-4771-9c97-389f8c1a6a16
     xudp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AD✈️\U0001F50D]_github.com/Ruk1ng001_b6e3e976"
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_9362ccf5"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 52.221.224.137
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
+    udp: true
+    uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
+    xudp: true
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC✈️\U0001F50D]_github.com/Ruk1ng001_9fce701c"
     password: <password>
     port: 8443
-    server: 876d9258-t9zts0-tao3bn-ggww.hkt.cdnhuawei.com
-    sni: 876d9258-t9zts0-tao3bn-ggww.hkt.cdnhuawei.com
+    server: da498221-t9zts0-tcfo40-17xo8.hkt.cdnhuawei.com
+    sni: da498221-t9zts0-tcfo40-17xo8.hkt.cdnhuawei.com
     tls: true
     type: http
-    username: bcc58e88-e147-11ec-b286-f23c91cfbbc9
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_c27d6dc4"
-    password: c5f50b0f-3c12-40ed-b63f-74f9c88316a5
-    port: 55014
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
+    username: b4e40aa2-74a1-11ed-b0b5-f23c9164ca5d
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2402,14 +2604,52 @@ proxies:
     udp: true
     uuid: d1a2650a-13cc-45ba-8383-40b24b6a8969
     xudp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AD✨\U0001F4E6]_github.com/Ruk1ng001_83497978"
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_0e81b06f"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 52.221.224.137
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
+    udp: true
+    uuid: 97c971c6-84c7-41a5-aa14-58ee6c7d23c7
+    xudp: true
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_1ebd850c"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 52.199.179.21
+    servername: www.apple.com.cn
+    tls: true
+    type: vless
+    udp: true
+    uuid: 9b0215ae-84f1-4020-acfe-bce799948aed
+    xudp: true
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AD✈️]_github.com/Ruk1ng001_b6e3e976"
     password: <password>
     port: 8443
-    server: d91b51ab-t9zts0-tbmeud-1th9y.hkt.cdnhuawei.com
-    sni: d91b51ab-t9zts0-tbmeud-1th9y.hkt.cdnhuawei.com
+    server: 876d9258-t9zts0-tao3bn-ggww.hkt.cdnhuawei.com
+    sni: 876d9258-t9zts0-tao3bn-ggww.hkt.cdnhuawei.com
     tls: true
     type: http
-    username: 12a81f5a-fa9e-11ef-8400-f23c9164ca5d
+    username: bcc58e88-e147-11ec-b286-f23c91cfbbc9
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2425,6 +2665,30 @@ proxies:
     type: vless
     udp: true
     uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
+    xudp: true
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4E6✈️\U0001F50D]_github.com/Ruk1ng001_debb2f79"
+    password: <password>
+    port: 8443
+    server: 0535d23a-ta1og0-thiwul-1gcq2.hkt.cdnhuawei.com
+    sni: 0535d23a-ta1og0-thiwul-1gcq2.hkt.cdnhuawei.com
+    tls: true
+    type: http
+    username: 759bf004-6137-11ec-bd7c-f23c913c8d2b
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_13ffa28b"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 18.181.166.203
+    servername: www.apple.com.cn
+    tls: true
+    type: vless
+    udp: true
+    uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
     xudp: true
   - client-fingerprint: chrome
     encryption: none
@@ -2445,51 +2709,19 @@ proxies:
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_13ffa28b"
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_71e5bb3d"
     network: tcp
     port: 31411
     reality-opts:
       public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
       short-id: b4fae2dd
-    server: 18.181.166.203
+    server: 13.158.136.194
     servername: www.apple.com.cn
     tls: true
     type: vless
     udp: true
-    uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
+    uuid: 3fe0153a-1608-4658-a9d0-9d73106dab33
     xudp: true
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_83cd798e"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55012
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_1dd408c7"
-    network: tcp
-    port: 31411
-    reality-opts:
-      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
-      short-id: b4fae2dd
-    server: 13.212.113.74
-    servername: www.lamer.com.sg
-    tls: true
-    type: vless
-    udp: true
-    uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
-    xudp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_37e67ea2"
-    password: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
-    port: 5228
-    server: c3b31bad-t9zts0-ta6lxc-jjv2.cm4.oshuawei.com
-    sni: c3b31bad-t9zts0-ta6lxc-jjv2.cm4.oshuawei.com
-    tls: true
-    type: http
-    username: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2505,6 +2737,46 @@ proxies:
     type: vless
     udp: true
     uuid: 3fe0153a-1608-4658-a9d0-9d73106dab33
+    xudp: true
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_37e67ea2"
+    password: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+    port: 5228
+    server: c3b31bad-t9zts0-ta6lxc-jjv2.cm4.oshuawei.com
+    sni: c3b31bad-t9zts0-ta6lxc-jjv2.cm4.oshuawei.com
+    tls: true
+    type: http
+    username: 31676725-b0fd-fed2-c857-2da8ce5a6e4f
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_49514c7a"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 13.229.96.206
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
+    udp: true
+    uuid: 3fe0153a-1608-4658-a9d0-9d73106dab33
+    xudp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_1dd408c7"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 13.212.113.74
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
+    udp: true
+    uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
     xudp: true
   - client-fingerprint: chrome
     encryption: none
@@ -2548,36 +2820,38 @@ proxies:
     udp: true
     uuid: 3fe0153a-1608-4658-a9d0-9d73106dab33
     xudp: true
-  - cipher: chacha20-ietf
-    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AD\U0001F4E6]_github.com/Ruk1ng001_TAy4COsc"
-    password: asd123456
-    port: 8388
-    server: 103.149.182.79
-    type: ss
   - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_a2c87689"
-    network: ws
-    port: 443
-    server: 104.19.58.9
-    servername: snip.eea.pp.ua
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_e7b7ae73"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 13.229.96.206
+    servername: www.lamer.com.sg
     tls: true
     type: vless
     udp: true
-    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
-    ws-opts:
-      headers:
-        Host: snip.eea.pp.ua
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.143 Safari/537.36
-      path: /?ed=2560
+    uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
     xudp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AD]_github.com/Ruk1ng001_4794b447"
-    password: <password>
-    port: 8443
-    server: 52b40d76-t9zts0-tsdg75-tlhh.hkt.cdnhuawei.com
-    sni: 52b40d76-t9zts0-tsdg75-tlhh.hkt.cdnhuawei.com
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_c7dc58ba"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 13.158.136.194
+    servername: www.apple.com.cn
     tls: true
-    type: http
-    username: bdf3e15e-c64c-11ea-82ef-f23c9164ca5d
+    type: vless
+    udp: true
+    uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
+    xudp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2594,7 +2868,58 @@ proxies:
     udp: true
     uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
     xudp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AD\U0001F3AA✨]_github.com/Ruk1ng001_e8bd8b0f"
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC]_github.com/Ruk1ng001_8785afc9"
+    password: <password>
+    port: 8443
+    server: d1c1e5d3-t9zts0-tct1rd-1o0ch.hkt.cdnhuawei.com
+    sni: d1c1e5d3-t9zts0-tct1rd-1o0ch.hkt.cdnhuawei.com
+    tls: true
+    type: http
+    username: d49e545e-0daf-11ee-a91f-f23c913c8d2b
+  - client-fingerprint: chrome
+    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_9451d35a"
+    network: ws
+    port: 443
+    server: www.shopify.com
+    servername: snip.zrfs.indevs.in
+    tls: true
+    type: vless
+    udp: true
+    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
+    ws-opts:
+      headers:
+        Host: snip.zrfs.indevs.in
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+      path: /?ed=2560
+    xudp: true
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_171b10a6"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 52.221.224.137
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
+    udp: true
+    uuid: 22825de9-dcaa-43d2-b14e-71f72b2a790e
+    xudp: true
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F3AD\U0001F50D]_github.com/Ruk1ng001_4794b447"
+    password: <password>
+    port: 8443
+    server: 52b40d76-t9zts0-tsdg75-tlhh.hkt.cdnhuawei.com
+    sni: 52b40d76-t9zts0-tsdg75-tlhh.hkt.cdnhuawei.com
+    tls: true
+    type: http
+    username: bdf3e15e-c64c-11ea-82ef-f23c9164ca5d
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_e8bd8b0f"
     password: <password>
     port: 8443
     server: 0ed6bcff-t9zts0-th9kx9-1os43.hkt.cdnhuawei.com
@@ -2602,37 +2927,6 @@ proxies:
     tls: true
     type: http
     username: 96c798f6-4645-11ee-b8a1-f23c9164ca5d
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F3AD✨\U0001F39E️]_github.com/Ruk1ng001_5c3d226a"
-    password: <password>
-    port: 8443
-    server: 88456c11-ta1og0-tnqudu-1mim2.hkt.cdnhuawei.com
-    sni: 88456c11-ta1og0-tnqudu-1mim2.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: 6e3ee1de-381f-11ee-87f9-f23c91cfbbc9
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_7e3cbcd2"
-    password: ZY07256934
-    port: 443
-    server: delicate-buck.rooster465.autos
-    skip-cert-verify: false
-    type: trojan
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_5e5199ef"
-    password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
-    port: 31013
-    server: v3s01.78787878.top
-    type: ss
-    udp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA]_github.com/Ruk1ng001_a36b117c"
-    password: <password>
-    port: 8443
-    server: 84a3802e-ta1og0-truoje-1uni.hkt.cdnhuawei.com
-    sni: 84a3802e-ta1og0-truoje-1uni.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: adbd0a82-3336-11ed-bd7c-f23c913c8d2b
   - client-fingerprint: chrome
     name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_ea71ef84"
     network: ws
@@ -2649,6 +2943,13 @@ proxies:
         User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
       path: /?ed=2560
     xudp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_5e5199ef"
+    password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
+    port: 31013
+    server: v3s01.78787878.top
+    type: ss
+    udp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -2682,22 +2983,22 @@ proxies:
     sni: 52.yuanul.com
     type: trojan
     udp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AA✨]_github.com/Ruk1ng001_b6d14edf"
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AD\U0001F3AA\U0001F39E️]_github.com/Ruk1ng001_09ef1197"
     password: <password>
     port: 8443
-    server: bc50d550-t9zts0-tbeopq-1s0a7.hkt.cdnhuawei.com
-    sni: bc50d550-t9zts0-tbeopq-1s0a7.hkt.cdnhuawei.com
+    server: 6df231b9-t9zts0-tb74a6-1q9g2.hkt.cdnhuawei.com
+    sni: 6df231b9-t9zts0-tb74a6-1q9g2.hkt.cdnhuawei.com
     tls: true
     type: http
-    username: 1b9c460e-f026-11ef-b737-f23c91cfbbc9
-  - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c1dbf17b"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55033
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
+    username: 9d80dd14-ac44-11ee-a116-f23c9164ca5d
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F4E6]_github.com/Ruk1ng001_072729f9"
+    password: <password>
+    port: 8443
+    server: 4a93c05c-t9zts0-tcr97d-2b2n.hkt.cdnhuawei.com
+    sni: 4a93c05c-t9zts0-tcr97d-2b2n.hkt.cdnhuawei.com
+    tls: true
+    type: http
+    username: fcd39788-ca23-11ed-86e2-f23c913c8d2b
   - client-fingerprint: chrome
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c3984632"
     network: tcp
@@ -2715,35 +3016,12 @@ proxies:
     server: aws.huxx.top
     type: ss
     udp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AD\U0001F3AA✨]_github.com/Ruk1ng001_b50ca51b"
-    password: <password>
-    port: 8443
-    server: d475037f-t9zts0-teu3io-1t4wg.hkt.cdnhuawei.com
-    sni: d475037f-t9zts0-teu3io-1t4wg.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: 1b13e20c-e778-11ef-907f-f23c913c8d2b
-  - client-fingerprint: ios
-    flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_ebf04b64"
-    port: 443
-    reality-opts:
-      public-key: FrLhPuCVfzdM5rppzxHXQ5BZSGf1YHrXgo-cCtecGSo
-      short-id: f3b38af2
-    server: pq.vmjp4.yydjc.top
-    servername: cdn-dynmedia-1.microsoft.com
-    skip-cert-verify: false
-    tls: true
-    type: vless
-    udp: true
-    uuid: 4a7a311a-6819-4a58-a19f-51bc5af69136
-  - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c1fc6980"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55031
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_7f4b39ed"
+    password: 8c81607e-a261-4277-9240-0ac2923f887d
+    port: 52664
+    server: tw01.x.kuaimaonodebgp.com
+    type: ss
     udp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1F2\U0001F1FE[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_6e897a77"
@@ -2752,35 +3030,14 @@ proxies:
     server: ss03rare.78787878.top
     type: ss
     udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_7f4b39ed"
-    password: 8c81607e-a261-4277-9240-0ac2923f887d
-    port: 52664
-    server: tw01.x.kuaimaonodebgp.com
-    type: ss
-    udp: true
-  - client-fingerprint: chrome
-    name: "\U0001F7E2\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_470177ce"
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
-      short-id: 2da72ce6
-    server: 154.31.114.125
-    servername: navi.bankrate.com
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F4E6\U0001F50D]_github.com/Ruk1ng001_674933ca"
+    password: <password>
+    port: 8443
+    server: cc17a031-t9zts0-titr5n-1hhyy.hkt.cdnhuawei.com
+    sni: cc17a031-t9zts0-titr5n-1hhyy.hkt.cdnhuawei.com
     tls: true
-    type: vless
-    udp: true
-    uuid: e1a7e7fe-b863-4ccf-a6e0-2736c5af2374
-  - client-fingerprint: chrome
-    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F39E️]_github.com/Ruk1ng001_8df06f98"
-    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
-    port: 10105
-    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
-    skip-cert-verify: false
-    sni: sni.eos-suzhou-4.cmecloud.cn
-    type: trojan
-    udp: true
+    type: http
+    username: c594c7ec-8b10-11ef-a2b8-f23c9164ca5d
   - client-fingerprint: chrome
     name: "\U0001F7E1\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a6d949ca"
     password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
@@ -2791,26 +3048,23 @@ proxies:
     type: trojan
     udp: true
   - client-fingerprint: chrome
-    name: "\U0001F7E2\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA]_github.com/Ruk1ng001_5be8d15f"
-    network: tcp
-    port: 443
-    reality-opts:
-      public-key: UT9tFQOdy54SeW_tg-XQN3QkGYoWUpO_88XFXijkrXc
-      short-id: 2da72ce6
-    server: 154.31.114.125
-    servername: navi.bankrate.com
-    tls: true
-    type: vless
+    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F39E️]_github.com/Ruk1ng001_8df06f98"
+    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
+    port: 10105
+    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
+    skip-cert-verify: false
+    sni: sni.eos-suzhou-4.cmecloud.cn
+    type: trojan
     udp: true
-    uuid: c25c5070-78d3-4ea2-afb2-2e82cb975d05
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_9df0a557"
-    password: <password>
-    port: 8443
-    server: b6f14c91-t9zts0-tac59v-i8ie.hkt.cdnhuawei.com
-    sni: b6f14c91-t9zts0-tac59v-i8ie.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: 990e8f34-bd4f-11ef-bdb9-f23c91cfbbc9
+  - client-fingerprint: chrome
+    name: "\U0001F7E1\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_7a335835"
+    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
+    port: 12013
+    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
+    skip-cert-verify: false
+    sni: tr.yuanul.com
+    type: trojan
+    udp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_8a77cf28"
     password: 36b33cb6-095c-47e7-ae83-445856a7d3ff
@@ -2818,14 +3072,6 @@ proxies:
     server: 183.236.97.212
     tfo: true
     type: ss
-    udp: true
-  - name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_694a76a5"
-    password: 366efee9-09fd-4365-8873-63f77468999c
-    port: 55021
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
     udp: true
   - client-fingerprint: chrome
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_8aa1a6ff"
@@ -2836,13 +3082,12 @@ proxies:
     sni: 99.yuanul.com
     type: trojan
     udp: true
-  - client-fingerprint: chrome
-    name: "\U0001F7E1\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_7a335835"
-    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
-    port: 12013
-    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
-    skip-cert-verify: false
-    sni: tr.yuanul.com
+  - name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_694a76a5"
+    password: 366efee9-09fd-4365-8873-63f77468999c
+    port: 55021
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
     type: trojan
     udp: true
   - alterId: "0"
@@ -2861,6 +3106,14 @@ proxies:
         Host: b7a3672ec50a345fff716208019ba38f.mobgslb.tbcache.com
       path: /
     xudp: true
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_e112e1e3"
+    password: <password>
+    port: 8443
+    server: 653502c4-ta1og0-tazlv3-11p9g.hkt.cdnhuawei.com
+    sni: 653502c4-ta1og0-tazlv3-11p9g.hkt.cdnhuawei.com
+    tls: true
+    type: http
+    username: 384d1b42-655f-11ed-a8bf-f23c91cfbbc9
   - client-fingerprint: chrome
     name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_20d0416e"
     password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
@@ -2879,47 +3132,6 @@ proxies:
     sni: tr.yuanul.com
     type: trojan
     udp: true
-  - name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F4FA\U0001F3AD✨]_github.com/Ruk1ng001_b348161e"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55022
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_9f6055d5"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55034
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_59a9e0c8"
-    network: ws
-    port: 3193
-    server: 45.120.157.18
-    servername: v-jkid7x7r71t868pqf81hs.worker.ddns-ip.net
-    tls: true
-    type: vless
-    udp: true
-    uuid: 00000000-0000-4000-8000-000000000000
-    ws-opts:
-      headers:
-        Host: v-jkid7x7r71t868pqf81hs.worker.ddns-ip.net
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
-      path: /@Marisa_kristi
-    xudp: true
-  - name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e14bcb52"
-    password: mrwdfNTD8M79LCukCieldrqZWqs=
-    port: 1443
-    server: twmoon1-cdn-route.couldflare-cdn.com
-    skip-cert-verify: true
-    sni: twmoon1-cdn-route.couldflare-cdn.com
-    tls: true
-    type: http
-    username: mrwdfNTD8M79LCukCieldrqZWqs=
   - client-fingerprint: chrome
     name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_21ee943e"
     password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
@@ -2938,22 +3150,22 @@ proxies:
     sni: 64.yuanul.com
     type: trojan
     udp: true
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a9aa6eaf"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55011
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
+  - client-fingerprint: chrome
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_59a9e0c8"
+    network: ws
+    port: 3193
+    server: 45.120.157.18
+    servername: v-jkid7x7r71t868pqf81hs.worker.ddns-ip.net
+    tls: true
+    type: vless
     udp: true
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_20d1c6f3"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55043
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
+    uuid: 00000000-0000-4000-8000-000000000000
+    ws-opts:
+      headers:
+        Host: v-jkid7x7r71t868pqf81hs.worker.ddns-ip.net
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+      path: /@Marisa_kristi
+    xudp: true
   - name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_bb54abfa"
     password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
     port: 55023
@@ -2963,22 +3175,21 @@ proxies:
     type: trojan
     udp: true
   - client-fingerprint: chrome
-    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_f499a602"
-    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
-    port: 23005
-    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
-    skip-cert-verify: false
-    sni: 82.yuanul.com
-    type: trojan
-    udp: true
-  - name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_65a5452e"
-    password: exaxgqkKkd0TAMrCxeonWg==
-    port: 1443
-    server: twmoon1-cdn-route.couldflare-cdn.com
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_c6292641"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 52.77.232.65
+    servername: www.lamer.com.sg
     tls: true
-    type: http
+    type: vless
     udp: true
-    username: mrwdfNTD8M79LCukCieldrqZWqs=
+    uuid: 570129b2-fa71-4771-9c97-389f8c1a6a16
+    xudp: true
   - cipher: chacha20-ietf
     name: "\U0001F534\U0001F1ED\U0001F1F0_github.com/Ruk1ng001_80418fad"
     password: asd123456
@@ -3003,43 +3214,20 @@ proxies:
     uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
     xudp: true
   - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_c6292641"
-    network: tcp
-    port: 31411
-    reality-opts:
-      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
-      short-id: b4fae2dd
-    server: 52.77.232.65
-    servername: www.lamer.com.sg
-    tls: true
-    type: vless
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_f499a602"
+    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
+    port: 23005
+    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
+    skip-cert-verify: false
+    sni: 82.yuanul.com
+    type: trojan
     udp: true
-    uuid: 570129b2-fa71-4771-9c97-389f8c1a6a16
-    xudp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F9E0\U0001F4FA]_github.com/Ruk1ng001_8552f822"
     password: 8c81607e-a261-4277-9240-0ac2923f887d
     port: 52613
     server: hk01.x.kuaimaonodebgp.com
     type: ss
-    udp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F4E6\U0001F50D]_github.com/Ruk1ng001_072729f9"
-    password: <password>
-    port: 8443
-    server: 4a93c05c-t9zts0-tcr97d-2b2n.hkt.cdnhuawei.com
-    sni: 4a93c05c-t9zts0-tcr97d-2b2n.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: fcd39788-ca23-11ed-86e2-f23c913c8d2b
-  - name: "⚪\U0001F3F3️[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_47f338c8"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55042
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
     udp: true
   - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F4E6]_github.com/Ruk1ng001_c9b15074"
     password: <password>
@@ -3079,22 +3267,6 @@ proxies:
     server: v1a002.78787878.top
     type: ss
     udp: true
-  - client-fingerprint: random
-    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_mo29ZeCz"
-    network: ws
-    port: 2083
-    server: 104.17.148.22
-    servername: yousef.varzesh.dpdns.org
-    tls: true
-    type: vless
-    udp: true
-    uuid: ce035748-9913-40c9-9fb6-c8389f7cdcf3
-    ws-opts:
-      headers:
-        Host: yousef.varzesh.dpdns.org
-        User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
-      path: /?ed=2560
-    xudp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -3111,22 +3283,29 @@ proxies:
     udp: true
     uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
     xudp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d409cb35"
-    network: ws
-    port: 443
-    server: 172.64.157.102
-    servername: snip.cfnb.indevs.in
+  - name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e14bcb52"
+    password: mrwdfNTD8M79LCukCieldrqZWqs=
+    port: 1443
+    server: twmoon1-cdn-route.couldflare-cdn.com
+    skip-cert-verify: true
+    sni: twmoon1-cdn-route.couldflare-cdn.com
     tls: true
-    type: vless
+    type: http
+    username: mrwdfNTD8M79LCukCieldrqZWqs=
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_62a7bb12"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 12745
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
     udp: true
-    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
-    ws-opts:
-      headers:
-        Host: snip.cfnb.indevs.in
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
-      path: /?ed=2560
-    xudp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_koilCd9S"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.51
+    type: ss
   - alterId: "0"
     cipher: auto
     name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_27f9b9b4"
@@ -3197,14 +3376,6 @@ proxies:
     sni: sg5.yuanul.com
     type: trojan
     udp: true
-  - cipher: 2022-blake3-aes-256-gcm
-    name: "\U0001F534\U0001F1EB\U0001F1F7[\U0001F4FA\U0001F3AD✈️\U0001F50D]_github.com/Ruk1ng001_1d35df8e"
-    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
-    port: 13141
-    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
-    tfo: false
-    type: ss
-    udp: true
   - client-fingerprint: random
     host: navi.bankrate.com
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_397f875c"
@@ -3245,14 +3416,6 @@ proxies:
         Host: b7a3672ec50a345fff716208019ba38f.mobgslb.tbcache.com
       path: /
     xudp: true
-  - cipher: 2022-blake3-aes-256-gcm
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_dd1d017e"
-    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
-    port: 11235
-    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
-    tfo: false
-    type: ss
-    udp: true
   - client-fingerprint: chrome
     name: "\U0001F7E1\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_dbecacbf"
     password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
@@ -3262,14 +3425,31 @@ proxies:
     sni: sg4.yuanul.com
     type: trojan
     udp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4E6]_github.com/Ruk1ng001_7e774230"
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F534\U0001F1E9\U0001F1EA[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_4b6e8105"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 13152
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
+    udp: true
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F4E6]_github.com/Ruk1ng001_e7a66651"
     password: <password>
     port: 8443
-    server: 9c374276-ta1og0-tm3dx0-1r9dt.hkt.cdnhuawei.com
-    sni: 9c374276-ta1og0-tm3dx0-1r9dt.hkt.cdnhuawei.com
+    server: f19dd713-t9zts0-taklwz-12bd.hkt.cdnhuawei.com
+    sni: f19dd713-t9zts0-taklwz-12bd.hkt.cdnhuawei.com
     tls: true
     type: http
-    username: de003c72-0157-11ef-86da-f23c91cfbbc9
+    username: ea76ae7e-ea95-11ef-8b73-f23c91cfbbc9
+  - client-fingerprint: chrome
+    name: "\U0001F7E2\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_cf35c649"
+    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
+    port: 12204
+    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
+    skip-cert-verify: false
+    sni: 121.yuanul.com
+    type: trojan
+    udp: true
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -3286,23 +3466,6 @@ proxies:
     udp: true
     uuid: d1a2650a-13cc-45ba-8383-40b24b6a8969
     xudp: true
-  - client-fingerprint: chrome
-    name: "\U0001F7E2\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_cf35c649"
-    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
-    port: 12204
-    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
-    skip-cert-verify: false
-    sni: 121.yuanul.com
-    type: trojan
-    udp: true
-  - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_921573c8"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55031
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - alterId: "0"
     cipher: auto
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_531370c2"
@@ -3319,22 +3482,12 @@ proxies:
         Host: 3dfc06a29f8ae09dec34988159d21bee.mobgslb.tbcache.com
       path: /
     xudp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_f076268b"
-    network: ws
-    port: 18791
-    server: 221.145.26.198
-    servername: snippet.danfeng.theworkpc.com
-    tls: true
-    type: vless
-    udp: true
-    uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
-    ws-opts:
-      headers:
-        Host: snippet.danfeng.theworkpc.com
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36 MVisionPlayer/1.0.0.0
-      path: /danfeng?ed=2560
-    xudp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_rRrxGOqN"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.48
+    type: ss
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -3353,10 +3506,10 @@ proxies:
     xudp: true
   - alterId: "0"
     cipher: auto
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e25d2824"
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_e07bc619"
     network: ws
-    port: 16618
-    server: m.cnmjin.net
+    port: 16617
+    server: planb.mojcn.com
     skip-cert-verify: false
     tls: false
     type: vmess
@@ -3369,10 +3522,10 @@ proxies:
     xudp: true
   - alterId: "0"
     cipher: auto
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_e07bc619"
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e25d2824"
     network: ws
-    port: 16617
-    server: planb.mojcn.com
+    port: 16618
+    server: m.cnmjin.net
     skip-cert-verify: false
     tls: false
     type: vmess
@@ -3398,22 +3551,6 @@ proxies:
     type: vless
     udp: true
     uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
-    xudp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_9451d35a"
-    network: ws
-    port: 443
-    server: www.shopify.com
-    servername: snip.zrfs.indevs.in
-    tls: true
-    type: vless
-    udp: true
-    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
-    ws-opts:
-      headers:
-        Host: snip.zrfs.indevs.in
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
-      path: /?ed=2560
     xudp: true
   - client-fingerprint: chrome
     encryption: none
@@ -3447,14 +3584,14 @@ proxies:
         Host: 3dfc06a29f8ae09dec34988159d21bee.mobgslb.tbcache.com
       path: /
     xudp: true
-  - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a9139508"
-    password: 366efee9-09fd-4365-8873-63f77468999c
-    port: 55032
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
+  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_1de2b25a"
+    password: <password>
+    port: 8443
+    server: 615d894f-ta1og0-tct1rd-1o0ch.hkt.cdnhuawei.com
+    sni: 615d894f-ta1og0-tct1rd-1o0ch.hkt.cdnhuawei.com
+    tls: true
+    type: http
+    username: d49e545e-0daf-11ee-a91f-f23c913c8d2b
   - client-fingerprint: chrome
     name: "\U0001F7E2\U0001F1F2\U0001F1FE[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_31e9800d"
     password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
@@ -3464,14 +3601,14 @@ proxies:
     sni: 157.yuanul.com
     type: trojan
     udp: true
-  - name: "\U0001F534\U0001F1F2\U0001F1FE[\U0001F3AC\U0001F916\U0001F4FA]_github.com/Ruk1ng001_68773857"
-    password: 467f2940-77cd-11ee-b5ed-f23c9164ca5d
-    port: 31233
-    server: a2f7f0cd-t9zts0-ta42cg-1phla.my.oshuawei.com
-    sni: a2f7f0cd-t9zts0-ta42cg-1phla.my.oshuawei.com
-    tls: true
-    type: http
-    username: 467f2940-77cd-11ee-b5ed-f23c9164ca5d
+  - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a9139508"
+    password: 366efee9-09fd-4365-8873-63f77468999c
+    port: 55032
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - client-fingerprint: chrome
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_203de4c8"
     network: tcp
@@ -3482,39 +3619,18 @@ proxies:
     sni: www.volcengine.com
     type: trojan
     udp: true
-  - client-fingerprint: chrome
-    encryption: none
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_34b3ef61"
-    network: ws
-    port: 443
-    server: 194.87.10.77
-    servername: ylnhh.cc.cd
-    tls: true
-    type: vless
-    udp: true
-    uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
-    ws-opts:
-      headers:
-        Host: ylnhh.cc.cd
-        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
-      path: "/Telegram\U0001F1E8\U0001F1F3@WangCai2"
-    xudp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_a2e6b89e"
-    network: ws
-    port: 443
-    server: 34.143.159.175
-    servername: ylnhh.cc.cd
-    tls: true
-    type: vless
-    udp: true
-    uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
-    ws-opts:
-      headers:
-        Host: ylnhh.cc.cd
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
-      path: "/Telegram\U0001F1E8\U0001F1F3+@WangCai2"
-    xudp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_j3Wyprqy"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.58
+    type: ss
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_Owr3qah1"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.111
+    type: ss
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a97186e4"
     password: 8c81607e-a261-4277-9240-0ac2923f887d
@@ -3539,6 +3655,47 @@ proxies:
         User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.63 Safari/537.36
       path: "/Telegram\U0001F1E8\U0001F1F3@WangCai2"
     xudp: true
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F534\U0001F1E6\U0001F1FA[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_81386c66"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 13143
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_bf8746ed"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 13.125.228.14
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
+    udp: true
+    uuid: 3fe0153a-1608-4658-a9d0-9d73106dab33
+    xudp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_c49bfd50"
+    network: ws
+    port: 20524
+    server: 43.165.191.25
+    servername: ylnhh.cc.cd
+    tls: true
+    type: vless
+    udp: true
+    uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    ws-opts:
+      headers:
+        Host: ylnhh.cc.cd
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.67 Safari/537.36
+      path: "/Telegram\U0001F1E8\U0001F1F3@WangCai2"
+    xudp: true
   - client-fingerprint: chrome
     encryption: none
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_8fb5cb5a"
@@ -3556,23 +3713,13 @@ proxies:
         User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
       path: /danfeng
     xudp: true
-  - client-fingerprint: chrome
-    encryption: none
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_43214a8b"
-    network: ws
-    port: 8443
-    server: 43.165.180.71
-    servername: ylnhh.cc.cd
-    tls: true
-    type: vless
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_9d00edfa"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.104
+    type: ss
     udp: true
-    uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
-    ws-opts:
-      headers:
-        Host: ylnhh.cc.cd
-        User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-      path: "/Telegram\U0001F1E8\U0001F1F3@WangCai2"
-    xudp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d8668130"
     password: 8c81607e-a261-4277-9240-0ac2923f887d
@@ -3580,6 +3727,25 @@ proxies:
     server: hk01.x.kuaimaonodebgp.com
     type: ss
     udp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d696b162"
+    port: 6003
+    server: cn02.365cloud5878.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574
+    xudp: true
+  - name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_65a5452e"
+    password: exaxgqkKkd0TAMrCxeonWg==
+    port: 1443
+    server: twmoon1-cdn-route.couldflare-cdn.com
+    tls: true
+    type: http
+    udp: true
+    username: mrwdfNTD8M79LCukCieldrqZWqs=
   - cipher: 2022-blake3-aes-128-gcm
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e487a40c"
     password: MjA0YzgwZjBlM2ZkNmRlNA==:MjA3MmZmNDYtNDVmNC00ZA==
@@ -3587,19 +3753,11 @@ proxies:
     server: aws9dfd9.waimaosass.icu
     type: ss
     udp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F39E️]_github.com/Ruk1ng001_9fce701c"
-    password: <password>
-    port: 8443
-    server: da498221-t9zts0-tcfo40-17xo8.hkt.cdnhuawei.com
-    sni: da498221-t9zts0-tcfo40-17xo8.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: b4e40aa2-74a1-11ed-b0b5-f23c9164ca5d
   - cipher: 2022-blake3-aes-256-gcm
-    name: "\U0001F7E2\U0001F1E8\U0001F1E6[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d01b98e2"
+    name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F4FA\U0001F3AD\U0001F3AA✨]_github.com/Ruk1ng001_5bfa93e9"
     password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
-    port: 13154
-    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    port: 14999
+    server: gia_us00.07c06051-81fd-4aa4-a94e-a0860315df8f.org
     tfo: false
     type: ss
     udp: true
@@ -3612,6 +3770,12 @@ proxies:
     sni: 120.yuanul.com
     type: trojan
     udp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_kByIFcuS"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.64
+    type: ss
   - client-fingerprint: chrome
     encryption: none
     flow: xtls-rprx-vision
@@ -3628,21 +3792,30 @@ proxies:
     udp: true
     uuid: 3fe0153a-1608-4658-a9d0-9d73106dab33
     xudp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_RPKodHji"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.9
+    type: ss
   - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AD]_github.com/Ruk1ng001_9348b5c1"
-    network: ws
-    port: 443
-    server: 198.41.208.133
-    servername: snip.cfv.pp.ua
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_49c255e8"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 52.199.179.21
+    servername: www.apple.com.cn
     tls: true
     type: vless
     udp: true
-    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
-    ws-opts:
-      headers:
-        Host: snip.cfv.pp.ua
-        User-Agent: Mozilla/5.0 (X11; Linux i686) AppleWebKit/534.30 (KHTML, like Gecko) Slackware/Chrome/12.0.742.100 Safari/534.30
-      path: /?ed=2560
+    uuid: 22825de9-dcaa-43d2-b14e-71f72b2a790e
     xudp: true
   - name: "\U0001F7E1\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_1f66ea7f"
     password: 366efee9-09fd-4365-8873-63f77468999c
@@ -3652,29 +3825,6 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - cipher: chacha20-ietf
-    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_b4962b18"
-    password: asd123456
-    port: 8388
-    server: 103.149.182.105
-    type: ss
-    udp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_74fa1869"
-    network: ws
-    port: 443
-    server: 198.41.208.22
-    servername: snip.zrfme.site
-    tls: true
-    type: vless
-    udp: true
-    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
-    ws-opts:
-      headers:
-        Host: snip.zrfme.site
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.76 Safari/537.36
-      path: /?ed=2560
-    xudp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_6be21f45"
     password: efanccyun
@@ -3683,16 +3833,6 @@ proxies:
       host: 202601222350462-dVNbGD4Umj.download.microsoft.com
       mode: http
     port: 8776
-    server: efan9863.dns8656815.com
-    type: ss
-  - cipher: rc4-md5
-    name: "\U0001F7E2\U0001F1F7\U0001F1FA[\U0001F3AA\U0001F4E6\U0001F50D]_github.com/Ruk1ng001_bcf98dee"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8638
     server: efan9863.dns8656815.com
     type: ss
   - cipher: rc4-md5
@@ -3705,6 +3845,16 @@ proxies:
     port: 8778
     server: efan9863.dns8656815.com
     type: ss
+  - cipher: rc4-md5
+    name: "\U0001F7E2\U0001F1F7\U0001F1FA[\U0001F3AA\U0001F4E6\U0001F50D]_github.com/Ruk1ng001_bcf98dee"
+    password: efanccyun
+    plugin: obfs
+    plugin-opts:
+      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
+      mode: http
+    port: 8638
+    server: efan9863.dns8656815.com
+    type: ss
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_be2a4355"
     password: 8c81607e-a261-4277-9240-0ac2923f887d
@@ -3712,6 +3862,39 @@ proxies:
     server: jp01.x.kuaimaonodebgp.com
     type: ss
     udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_877a9c3b"
+    network: ws
+    port: 19457
+    server: 43.165.191.25
+    servername: ylnhh.cc.cd
+    tls: true
+    type: vless
+    udp: true
+    uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    ws-opts:
+      headers:
+        Host: ylnhh.cc.cd
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.81 Safari/537.36
+      path: "/Telegram\U0001F1E8\U0001F1F3@WangCai2"
+    xudp: true
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_aa04a837"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 13.125.228.14
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
+    udp: true
+    uuid: 8f68ee81-06d1-4e42-b9cd-61de25aa0f41
+    xudp: true
   - name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_f12f5c65"
     password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
     port: 55021
@@ -3753,28 +3936,40 @@ proxies:
         User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36
       path: /danfeng?ed=2560
     xudp: true
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_22bac848"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55013
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
+  - client-fingerprint: chrome
+    encryption: none
+    flow: xtls-rprx-vision
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_9f2e176d"
+    network: tcp
+    port: 31411
+    reality-opts:
+      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
+      short-id: b4fae2dd
+    server: 13.125.228.14
+    servername: www.lamer.com.sg
+    tls: true
+    type: vless
     udp: true
+    uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
+    xudp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_Eswdoe3V"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.66
+    type: ss
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_YPiS0Ad9"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.29
+    type: ss
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1F9\U0001F1ED[\U0001F916\U0001F4FA\U0001F3AA✨]_github.com/Ruk1ng001_526e8d41"
     password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
     port: 29790
     server: aa01rare.78787878.top
     type: ss
-    udp: true
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_52c790b7"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55012
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
     udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_708ebae4"
@@ -3786,34 +3981,28 @@ proxies:
     port: 8773
     server: efan9863.dns8656815.com
     type: ss
-  - name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F39E️\U0001F4E6]_github.com/Ruk1ng001_3f1042b2"
-    network: ws
-    port: 80
-    server: www.speedtest.net
-    servername: www.speedtest.net
-    tls: false
-    type: vless
-    uuid: 026d15a6-0b97-4883-a229-ec4325afb0de
-    ws-opts:
-      headers:
-        Host: 023.electrocellco-cf-023.workers.dev
-      path: /eyJqdW5rIjoiV25Ed09oeVp4TU8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_f77546e9"
-    network: ws
-    port: 443
-    server: staticdelivery.nexusmods.com
-    servername: snip.subs.indevs.in
-    tls: true
-    type: vless
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_PYxMrVLl"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.117
+    type: ss
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_c2f1006f"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 14630
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
     udp: true
-    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
-    ws-opts:
-      headers:
-        Host: snip.subs.indevs.in
-        User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
-      path: /?ed=2560
-    xudp: true
+  - name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c66cc03b"
+    password: 366efee9-09fd-4365-8873-63f77468999c
+    port: 55024
+    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F1\U0001F1F9[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e49550ce"
     password: efanccyun
@@ -3824,14 +4013,6 @@ proxies:
     port: 8636
     server: efan9863.dns8656815.com
     type: ss
-  - name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c66cc03b"
-    password: 366efee9-09fd-4365-8873-63f77468999c
-    port: 55024
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_7094d610"
     password: efanccyun
@@ -3857,20 +4038,6 @@ proxies:
     server: aa02rare.78787878.top
     type: ss
     udp: true
-  - client-fingerprint: ios
-    flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_ebabfab8"
-    port: 443
-    reality-opts:
-      public-key: FrLhPuCVfzdM5rppzxHXQ5BZSGf1YHrXgo-cCtecGSo
-      short-id: f3b38af2
-    server: pq.vmjp4.yydjc.top
-    servername: cdn-dynmedia-1.microsoft.com
-    skip-cert-verify: false
-    tls: true
-    type: vless
-    udp: true
-    uuid: ee84b9bb-5025-460f-8b56-de84e885d970
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_5ea55219"
     password: 36b33cb6-095c-47e7-ae83-445856a7d3ff
@@ -3879,6 +4046,22 @@ proxies:
     tfo: true
     type: ss
     udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_a2e6b89e"
+    network: ws
+    port: 443
+    server: 34.143.159.175
+    servername: ylnhh.cc.cd
+    tls: true
+    type: vless
+    udp: true
+    uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    ws-opts:
+      headers:
+        Host: ylnhh.cc.cd
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/32.0.1700.107 Safari/537.36
+      path: "/Telegram\U0001F1E8\U0001F1F3+@WangCai2"
+    xudp: true
   - alterId: "0"
     cipher: auto
     name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_338e51be"
@@ -3934,6 +4117,12 @@ proxies:
     port: 8774
     server: efan9863.dns8656815.com
     type: ss
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_TMP5FCLP"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.215
+    type: ss
   - client-fingerprint: chrome
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_b3ff94af"
     network: tcp
@@ -3970,19 +4159,17 @@ proxies:
     server: efan9863.dns8656815.com
     type: ss
   - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_suB8ZiEJ"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.125
+    type: ss
+  - cipher: aes-256-cfb
     name: "\U0001F534\U0001F1EA\U0001F1F8_github.com/Ruk1ng001_a1eed455"
     password: EXN3S3eQpjE7EJu8
     port: 9027
     server: 5.188.181.201
     type: ss
-    udp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_24a6000d"
-    password: ZY07256934
-    port: 443
-    server: free-duckling.rooster465.autos
-    skip-cert-verify: false
-    type: trojan
     udp: true
   - client-fingerprint: chrome
     encryption: none
@@ -4032,14 +4219,58 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_1de2b25a"
-    password: <password>
-    port: 8443
-    server: 615d894f-ta1og0-tct1rd-1o0ch.hkt.cdnhuawei.com
-    sni: 615d894f-ta1og0-tct1rd-1o0ch.hkt.cdnhuawei.com
+  - client-fingerprint: chrome
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_f076268b"
+    network: ws
+    port: 18791
+    server: 221.145.26.198
+    servername: snippet.danfeng.theworkpc.com
     tls: true
-    type: http
-    username: d49e545e-0daf-11ee-a91f-f23c913c8d2b
+    type: vless
+    udp: true
+    uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+    ws-opts:
+      headers:
+        Host: snippet.danfeng.theworkpc.com
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 Safari/537.36 MVisionPlayer/1.0.0.0
+      path: /danfeng?ed=2560
+    xudp: true
+  - cipher: aes-128-gcm
+    name: "\U0001F534\U0001F1EC\U0001F1E7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_bfa18222"
+    password: shadowsocks
+    port: 443
+    server: 141.98.101.182
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_39f5f121"
+    network: ws
+    port: 50001
+    server: 175.208.111.195
+    servername: snippet.danfeng.theworkpc.com
+    tls: true
+    type: vless
+    udp: true
+    uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+    ws-opts:
+      headers:
+        Host: snippet.danfeng.theworkpc.com
+        User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+      path: /danfeng?ed=2560
+    xudp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_687e7309"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.199
+    type: ss
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F7E2\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_6bbb1de5"
+    password: 8c81607e-a261-4277-9240-0ac2923f887d
+    port: 52604
+    server: kr01.x.kuaimaonodebgp.com
+    type: ss
+    udp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_91259dde"
     password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
@@ -4047,12 +4278,15 @@ proxies:
     server: us9.network-cdn-gw-yd.net
     type: ss
     udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F7E2\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_6bbb1de5"
-    password: 8c81607e-a261-4277-9240-0ac2923f887d
-    port: 52604
-    server: kr01.x.kuaimaonodebgp.com
-    type: ss
+  - client-fingerprint: chrome
+    name: "\U0001F7E1\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_c50eacc3"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55041
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
     udp: true
   - alterId: "0"
     cipher: auto
@@ -4070,21 +4304,21 @@ proxies:
         Host: 7cfbb1888f513ff270997dcf734a556e.mobgslb.tbcache.com
       path: /
     xudp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_ed8b25b6"
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_2a2cac8c"
     network: ws
-    port: 8443
-    server: 43.160.248.66
-    servername: ylnhh.cc.cd
-    tls: true
-    type: vless
+    port: 12888
+    server: gtm1.ktmwan.net
+    skip-cert-verify: false
+    tls: false
+    type: vmess
     udp: true
-    uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    uuid: 21324e77-b4d2-4fca-8884-5e8b75836d2a
     ws-opts:
       headers:
-        Host: ylnhh.cc.cd
-        User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.104 Safari/537.36
-      path: "/Telegram\U0001F1E8\U0001F1F3+@WangCai2"
+        Host: baidu.com
+      path: /
     xudp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_fd4b38bd"
@@ -4113,14 +4347,6 @@ proxies:
     port: 8656
     server: efan9863.dns8656815.com
     type: ss
-  - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_5d1b5710"
-    password: 366efee9-09fd-4365-8873-63f77468999c
-    port: 55031
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - client-fingerprint: chrome
     name: "\U0001F7E2\U0001F1EF\U0001F1F5[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_2cae3e82"
     password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
@@ -4137,6 +4363,29 @@ proxies:
     server: aa02rare.78787878.top
     type: ss
     udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "⚪\U0001F3F3️_github.com/Ruk1ng001_f9a5c852"
+    network: ws
+    port: 32768
+    server: 27.119.233.26
+    servername: snippet.fgfw.de5.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
+    ws-opts:
+      headers:
+        Host: snippet.fgfw.de5.net
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36
+      path: /danfeng
+    xudp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_b608cfb6"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.223
+    type: ss
   - client-fingerprint: chrome
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_b94176d6"
     network: tcp
@@ -4157,6 +4406,13 @@ proxies:
     port: 8783
     server: efan9863.dns8656815.com
     type: ss
+  - name: "\U0001F534\U0001F1EE\U0001F1F3_github.com/Ruk1ng001_UsfVIo5P"
+    password: ""
+    port: 1080
+    server: 139.59.24.173
+    skip-cert-verify: true
+    type: socks5
+    username: ""
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_a04b1383"
     password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
@@ -4171,14 +4427,29 @@ proxies:
     server: 57.128.191.90
     type: ss
     udp: true
-  - name: "\U0001F534\U0001F1EE\U0001F1E9[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_54d516ef"
-    password: 467f2940-77cd-11ee-b5ed-f23c9164ca5d
-    port: 32233
-    server: 922fbbc9-ta1og0-ta42cg-1phla.id.oshuawei.com
-    sni: 922fbbc9-ta1og0-ta42cg-1phla.id.oshuawei.com
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_zByaQUKk"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.29
+    type: ss
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_f961f6cc"
+    network: ws
+    port: 443
+    server: 68.64.179.250
+    servername: ylnhh.cc.cd
     tls: true
-    type: http
-    username: 467f2940-77cd-11ee-b5ed-f23c9164ca5d
+    type: vless
+    udp: true
+    uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    ws-opts:
+      headers:
+        Host: ylnhh.cc.cd
+        User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-J730GM Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.111 Mobile Safari/537.36
+      path: "/Telegram\U0001F1E8\U0001F1F3@WangCai2"
+    xudp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_29570359"
     password: efanccyun
@@ -4209,6 +4480,52 @@ proxies:
     port: 8620
     server: efan9863.dns8656815.com
     type: ss
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F534\U0001F1E9\U0001F1EA[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_3b9d2022"
+    port: 6043
+    server: cn02.365cloud5878.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574
+    xudp: true
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F7E2\U0001F1F9\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_635c5725"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 13156
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
+    udp: true
+  - client-fingerprint: chrome
+    encryption: none
+    name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F4FA\U0001F3AA✨]_github.com/Ruk1ng001_34b3ef61"
+    network: ws
+    port: 443
+    server: 194.87.10.77
+    servername: ylnhh.cc.cd
+    tls: true
+    type: vless
+    udp: true
+    uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    ws-opts:
+      headers:
+        Host: ylnhh.cc.cd
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+      path: "/Telegram\U0001F1E8\U0001F1F3@WangCai2"
+    xudp: true
+  - client-fingerprint: chrome
+    name: "\U0001F534\U0001F1EE\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_35f87372"
+    network: tcp
+    password: M7v%w11Se*
+    port: 443
+    server: amanm.wsone.icu
+    skip-cert-verify: true
+    sni: amanm.wsone.icu
+    type: trojan
+    udp: true
   - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_a3ca3235"
     password: 366efee9-09fd-4365-8873-63f77468999c
     port: 55012
@@ -4227,6 +4544,16 @@ proxies:
     port: 8784
     server: efan9863.dns8656815.com
     type: ss
+  - client-fingerprint: chrome
+    name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_75330f19"
+    network: tcp
+    password: da6f49ae-b0dd-4527-b993-ae6ec688000c
+    port: 55031
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_971db82a"
     password: c5f50b0f-3c12-40ed-b63f-74f9c88316a5
     port: 55051
@@ -4234,6 +4561,26 @@ proxies:
     skip-cert-verify: true
     sni: www.h3yun.com
     type: trojan
+    udp: true
+  - name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_3f1042b2"
+    network: ws
+    port: 80
+    server: www.speedtest.net
+    servername: www.speedtest.net
+    tls: false
+    type: vless
+    uuid: 026d15a6-0b97-4883-a229-ec4325afb0de
+    ws-opts:
+      headers:
+        Host: 023.electrocellco-cf-023.workers.dev
+      path: /eyJqdW5rIjoiV25Ed09oeVp4TU8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119?ed=2560
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F7E2\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_f6e9176e"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 14623
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
     udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F7\U0001F1F4[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_e980f81e"
@@ -4253,16 +4600,6 @@ proxies:
       host: 202601222350462-dVNbGD4Umj.download.microsoft.com
       mode: http
     port: 8794
-    server: efan9863.dns8656815.com
-    type: ss
-  - cipher: rc4-md5
-    name: "\U0001F534\U0001F1EB\U0001F1EE[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_0547fabc"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8619
     server: efan9863.dns8656815.com
     type: ss
   - cipher: aes-256-cfb
@@ -4288,6 +4625,23 @@ proxies:
         Host: b7a3672ec50a345fff716208019ba38f.mobgslb.tbcache.com
       path: /
     xudp: true
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F534\U0001F1ED\U0001F1FA[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_3d662b43"
+    port: 6029
+    server: cn02.365cloud5878.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574
+    xudp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_tP4AbImx"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.155.103
+    type: ss
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1F2\U0001F1FE[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_5009ff8f"
     password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
@@ -4332,18 +4686,11 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F534\U0001F1F3\U0001F1F1[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_f5c34965"
-    password: k1dBOmOB4oqi7Ump37a1bQ
-    port: 8080
-    server: 82.38.31.189
-    type: ss
-    udp: true
   - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_4abdd034"
+    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_a9987630"
     network: ws
-    port: 10162
-    server: 222.109.53.68
+    port: 18789
+    server: 112.165.29.47
     servername: snippet.danfeng.theworkpc.com
     tls: true
     type: vless
@@ -4352,9 +4699,16 @@ proxies:
     ws-opts:
       headers:
         Host: snippet.danfeng.theworkpc.com
-        User-Agent: Mozilla/5.0 (Linux; Android 6.0; vivo 1610 Build/MMB29M) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.124 Mobile Safari/537.36
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
       path: /danfeng?ed=2560
     xudp: true
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F534\U0001F1F3\U0001F1F1[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_f5c34965"
+    password: k1dBOmOB4oqi7Ump37a1bQ
+    port: 8080
+    server: 82.38.31.189
+    type: ss
+    udp: true
   - cipher: 2022-blake3-aes-128-gcm
     name: "\U0001F534\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d6a11770"
     password: MjA0YzgwZjBlM2ZkNmRlNA==:MjA3MmZmNDYtNDVmNC00ZA==
@@ -4372,37 +4726,22 @@ proxies:
     sni: www.volcengine.com
     type: trojan
     udp: true
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_4461e4d5"
-    password: 366efee9-09fd-4365-8873-63f77468999c
-    port: 55011
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_6b9e5c53"
+  - client-fingerprint: chrome
+    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_621927a7"
     network: ws
-    port: 80
-    server: www.visa.com
+    port: 443
+    server: 198.41.209.105
+    servername: snip.syt.pp.ua
+    tls: true
     type: vless
     udp: true
-    uuid: 363a6072-05d7-48d5-8f19-312b05fdd9cd
+    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
     ws-opts:
       headers:
-        Host: chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
+        Host: snip.syt.pp.ua
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/45.0.2454.101 Safari/537.36
       path: /?ed=2560
     xudp: true
-  - cipher: rc4-md5
-    name: "\U0001F534\U0001F1E8\U0001F1ED[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c19d276a"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8732
-    server: efan9863.dns8656815.com
-    type: ss
   - alterId: "0"
     cipher: auto
     name: "\U0001F534\U0001F1EE\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA✨]_github.com/Ruk1ng001_a7f62a33"
@@ -4418,6 +4757,45 @@ proxies:
       headers:
         Host: 7cfbb1888f513ff270997dcf734a556e.mobgslb.tbcache.com
       path: /
+    xudp: true
+  - cipher: rc4-md5
+    name: "\U0001F534\U0001F1E8\U0001F1ED[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c19d276a"
+    password: efanccyun
+    plugin: obfs
+    plugin-opts:
+      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
+      mode: http
+    port: 8732
+    server: efan9863.dns8656815.com
+    type: ss
+  - mport: 60000-65530
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_c8bb5d61"
+    password: ee84b9bb-5025-460f-8b56-de84e885d970
+    port: 60000
+    ports: 60000-65530
+    server: pq.hy.jp3.yydjc.top
+    skip-cert-verify: true
+    sni: www.apple.com
+    type: hysteria2
+    udp: true
+  - client-fingerprint: firefox
+    flow: xtls-rprx-vision
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F7E2\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_2162a8e8"
+    network: tcp
+    port: 19001
+    reality-opts:
+      public-key: UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM
+      short-id: ""
+    server: krp01.jumperservice.com
+    servername: addons.mozilla.org
+    tls: true
+    type: vless
+    udp: true
+    uuid: 455fc271-3ee2-493b-8c75-9324b4851e2f
     xudp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_9188f8ef"
@@ -4437,6 +4815,15 @@ proxies:
     type: trojan
     udp: true
   - client-fingerprint: chrome
+    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F50D]_github.com/Ruk1ng001_8a6d4b63"
+    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
+    port: 10103
+    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
+    skip-cert-verify: false
+    sni: sni.eos-suzhou-4.cmecloud.cn
+    type: trojan
+    udp: true
+  - client-fingerprint: chrome
     name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_6ca356bd"
     network: tcp
     password: e788f7b2-aae8-4d97-9a6b-769b554b3f63
@@ -4446,72 +4833,6 @@ proxies:
     sni: jp1.wca1rs59sefb1kl655b0.online
     type: trojan
     udp: true
-  - client-fingerprint: chrome
-    name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F50D]_github.com/Ruk1ng001_8a6d4b63"
-    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
-    port: 10103
-    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
-    skip-cert-verify: false
-    sni: sni.eos-suzhou-4.cmecloud.cn
-    type: trojan
-    udp: true
-  - client-fingerprint: random
-    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_c7e70e3f"
-    network: ws
-    port: 2083
-    server: 104.17.148.22
-    servername: yousef.varzesh.dpdns.org
-    tls: true
-    type: vless
-    udp: true
-    uuid: ce035748-9913-40c9-9fb6-c8389f7cdcf3
-    ws-opts:
-      headers:
-        Host: yousef.varzesh.dpdns.org
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.106 Safari/537.36
-      path: /?ed=2560
-    xudp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F4E6]_github.com/Ruk1ng001_674933ca"
-    password: <password>
-    port: 8443
-    server: cc17a031-t9zts0-titr5n-1hhyy.hkt.cdnhuawei.com
-    sni: cc17a031-t9zts0-titr5n-1hhyy.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: c594c7ec-8b10-11ef-a2b8-f23c9164ca5d
-  - name: "\U0001F534\U0001F1F9\U0001F1FC[\U0001F916\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_d367760b"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55022
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_121ecd81"
-    password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
-    port: 55013
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F534\U0001F1EA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_0713db57"
-    password: VcFuyXvND2yQWSFY
-    port: 9054
-    server: 5.188.181.201
-    type: ss
-    udp: true
-  - cipher: rc4-md5
-    name: "\U0001F7E2\U0001F1E6\U0001F1FA[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_f7e1f9af"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8800
-    server: efan9863.dns8656815.com
-    type: ss
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1E6\U0001F1F9[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_1e6db36e"
     password: efanccyun
@@ -4520,6 +4841,16 @@ proxies:
       host: 202601222350462-dVNbGD4Umj.download.microsoft.com
       mode: http
     port: 8655
+    server: efan9863.dns8656815.com
+    type: ss
+  - cipher: rc4-md5
+    name: "\U0001F7E2\U0001F1E6\U0001F1FA[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_f7e1f9af"
+    password: efanccyun
+    plugin: obfs
+    plugin-opts:
+      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
+      mode: http
+    port: 8800
     server: efan9863.dns8656815.com
     type: ss
   - alterId: "0"
@@ -4539,24 +4870,6 @@ proxies:
       path: /
     xudp: true
   - cipher: rc4-md5
-    name: "\U0001F534\U0001F1E8\U0001F1FF[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_73cbdee5"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8616
-    server: efan9863.dns8656815.com
-    type: ss
-  - name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_5e0cc50f"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55021
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - cipher: rc4-md5
     name: "\U0001F7E2\U0001F1E9\U0001F1EA[\U0001F3AD\U0001F3AA✈️\U0001F50D]_github.com/Ruk1ng001_faf94424"
     password: efanccyun
     plugin: obfs
@@ -4566,22 +4879,38 @@ proxies:
     port: 8796
     server: efan9863.dns8656815.com
     type: ss
-  - alterId: "0"
-    cipher: auto
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_7901dff6"
+  - cipher: rc4-md5
+    name: "\U0001F534\U0001F1E8\U0001F1FF[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_73cbdee5"
+    password: efanccyun
+    plugin: obfs
+    plugin-opts:
+      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
+      mode: http
+    port: 8616
+    server: efan9863.dns8656815.com
+    type: ss
+  - client-fingerprint: chrome
+    name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_17bf02bb"
     network: ws
-    port: 16617
-    server: planb.mojcn.com
-    skip-cert-verify: false
-    tls: false
-    type: vmess
+    port: 443
+    server: time.is
+    servername: snip.lsmoo.pp.ua
+    tls: true
+    type: vless
     udp: true
-    uuid: 38207de1-de96-4f78-867b-7be6b41ef1dd
+    uuid: 3ad8ffb8-f1b2-4a86-93f6-e0edf6891d15
     ws-opts:
       headers:
-        Host: 3dfc06a29f8ae09dec34988159d21bee.mobgslb.tbcache.com
-      path: /
+        Host: snip.lsmoo.pp.ua
+        User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+      path: /?ed=2560
     xudp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_V6Y4eVc8"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.47
+    type: ss
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1ED\U0001F1FA[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_1cf06ff8"
     password: efanccyun
@@ -4629,18 +4958,22 @@ proxies:
     sni: www.volcengine.com
     type: trojan
     udp: true
-  - down: ""
-    fingerprint: ""
-    name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_d75a8411"
-    obfs: ""
-    obfs-password: ""
-    password: fe0fda62-79ff-467e-bef4-983322c1d21b
-    port: 30102
-    server: tw.ccwink.cc
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F534\U0001F1EB\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA✈️]_github.com/Ruk1ng001_1d35df8e"
+    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
+    port: 13141
+    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
+    tfo: false
+    type: ss
+    udp: true
+  - name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_565dd20f"
+    password: 366efee9-09fd-4365-8873-63f77468999c
+    port: 55053
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
     skip-cert-verify: true
-    sni: tw.ccwink.cc
-    type: hysteria2
-    up: ""
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - client-fingerprint: chrome
     name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_74041389"
     network: tcp
@@ -4651,14 +4984,6 @@ proxies:
     sni: www.volcengine.com
     type: trojan
     udp: true
-  - name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_565dd20f"
-    password: 366efee9-09fd-4365-8873-63f77468999c
-    port: 55053
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_05f7cc92"
     password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
@@ -4666,35 +4991,6 @@ proxies:
     server: us03.network-cdn-gw-yd.net
     type: ss
     udp: true
-  - name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c2217f71"
-    network: ws
-    port: 2052
-    server: www.visa.com.sg
-    type: vless
-    udp: true
-    uuid: 363a6072-05d7-48d5-8f19-312b05fdd9cd
-    ws-opts:
-      headers:
-        Host: chosenflyesqt-q3y28ipf-v3.chosen-fly-esqt.workers.dev
-        User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
-      path: /?ed=2560
-    xudp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_a9987630"
-    network: ws
-    port: 18789
-    server: 112.165.29.47
-    servername: snippet.danfeng.theworkpc.com
-    tls: true
-    type: vless
-    udp: true
-    uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
-    ws-opts:
-      headers:
-        Host: snippet.danfeng.theworkpc.com
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.86 Safari/537.36
-      path: /danfeng?ed=2560
-    xudp: true
   - cipher: aes-256-cfb
     name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_bM58gJ7e"
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
@@ -4719,14 +5015,6 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_ffdae923"
-    password: 366efee9-09fd-4365-8873-63f77468999c
-    port: 55051
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F8\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_66a5dc56"
     password: efanccyun
@@ -4737,6 +5025,14 @@ proxies:
     port: 8633
     server: efan9863.dns8656815.com
     type: ss
+  - name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_ffdae923"
+    password: 366efee9-09fd-4365-8873-63f77468999c
+    port: 55051
+    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
+    skip-cert-verify: true
+    sni: www.h3yun.com
+    type: trojan
+    udp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F7\U0001F1F4[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c170a597"
     password: efanccyun
@@ -4747,16 +5043,6 @@ proxies:
     port: 8610
     server: efan9863.dns8656815.com
     type: ss
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1EE\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_35f87372"
-    network: tcp
-    password: M7v%w11Se*
-    port: 443
-    server: amanm.wsone.icu
-    skip-cert-verify: true
-    sni: amanm.wsone.icu
-    type: trojan
-    udp: true
   - name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_5f967ac7"
     password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
     port: 55051
@@ -4765,24 +5051,6 @@ proxies:
     sni: www.h3yun.com
     type: trojan
     udp: true
-  - alpn:
-      - ""
-    alterId: "0"
-    cipher: auto
-    name: "\U0001F7E2\U0001F1EE\U0001F1E9[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_cea028a9"
-    network: ws
-    port: 443
-    server: 47.57.182.141
-    skip-cert-verify: false
-    tls: true
-    type: vmess
-    udp: true
-    uuid: 462d9694-62b5-4781-a287-61a422b920e8
-    ws-opts:
-      headers:
-        Host: mn1ray.jagoanvip.xyz
-      path: /vvip
-    xudp: true
   - client-fingerprint: chrome
     name: "\U0001F7E2\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_9449632f"
     network: tcp
@@ -4793,22 +5061,35 @@ proxies:
     sni: hk1.wca1rs59sefb1kl655b0.online
     type: trojan
     udp: true
+  - name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_7cbb28bd"
+    network: ws
+    port: 8880
+    server: africa.visa.com
+    type: vless
+    udp: true
+    uuid: 623d675e-8748-4881-ac0f-dc1a10b595b1
+    ws-opts:
+      headers:
+        Host: vahidasd1988-se08ot-3.vahidasd1988.workers.dev
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/59.0.3071.115 Safari/537.36
+      path: /?ed=2560
+    xudp: true
   - client-fingerprint: chrome
     encryption: none
-    name: "\U0001F534\U0001F1E9\U0001F1EA_github.com/Ruk1ng001_85403be0"
+    name: "\U0001F534\U0001F1F0\U0001F1F7_github.com/Ruk1ng001_68449d5b"
     network: ws
-    port: 443
-    server: 143.20.160.195
-    servername: sni.111000.dynv6.net
+    port: 14265
+    server: 121.155.79.99
+    servername: snippet.sheilabelinda.ndjp.net
     tls: true
     type: vless
     udp: true
-    uuid: 6202b230-417c-4d8e-b624-0f71afa9c75d
+    uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
     ws-opts:
       headers:
-        Host: sni.111000.dynv6.net
-        User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.101 Safari/537.36
-      path: "/?ed=2560&Telegram\U0001F1E8\U0001F1F3@WangCai2"
+        Host: snippet.sheilabelinda.ndjp.net
+        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/54.0.2840.99 Safari/537.36
+      path: /danfeng
     xudp: true
   - cipher: rc4-md5
     name: "\U0001F534\U0001F1F5\U0001F1F1[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_4246586a"
@@ -4818,6 +5099,16 @@ proxies:
       host: 202601222350462-dVNbGD4Umj.download.microsoft.com
       mode: http
     port: 8631
+    server: efan9863.dns8656815.com
+    type: ss
+  - cipher: rc4-md5
+    name: "\U0001F534\U0001F1F8\U0001F1EE[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_41107aa0"
+    password: efanccyun
+    plugin: obfs
+    plugin-opts:
+      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
+      mode: http
+    port: 8650
     server: efan9863.dns8656815.com
     type: ss
   - client-fingerprint: chrome
@@ -4830,32 +5121,29 @@ proxies:
     sni: www.volcengine.com
     type: trojan
     udp: true
-  - cipher: rc4-md5
-    name: "\U0001F534\U0001F1F8\U0001F1EE[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_41107aa0"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8650
-    server: efan9863.dns8656815.com
-    type: ss
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F3AA]_github.com/Ruk1ng001_f9fee984"
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F534\U0001F1EE\U0001F1F3[\U0001F916\U0001F4FA✨\U0001F4E6]_github.com/Ruk1ng001_3bc205a1"
     network: ws
-    port: 8443
-    server: 59.3.3.161
-    servername: ylnhh.cc.cd
-    tls: true
-    type: vless
+    port: 12887
+    server: gtm1.ktmwan.net
+    skip-cert-verify: false
+    tls: false
+    type: vmess
     udp: true
-    uuid: 14b02e2a-8930-4afb-8412-ea4a4954ca5b
+    uuid: 21324e77-b4d2-4fca-8884-5e8b75836d2a
     ws-opts:
       headers:
-        Host: ylnhh.cc.cd
-        User-Agent: Mozilla/5.0 (Linux; Android 5.1.1; SM-J120M Build/LMY47X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
-      path: "/Telegram\U0001F1E8\U0001F1F3+@WangCai2"
+        Host: baidu.com
+      path: /
     xudp: true
+  - cipher: aes-256-cfb
+    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_f4204073"
+    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
+    port: 38388
+    server: 103.186.154.9
+    type: ss
+    udp: true
   - name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_37f6decd"
     password: c5f50b0f-3c12-40ed-b63f-74f9c88316a5
     port: 55053
@@ -4885,45 +5173,13 @@ proxies:
     port: 38388
     server: 103.186.155.85
     type: ss
-  - alterId: 0
-    cipher: auto
-    name: "\U0001F534\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_1f0de693"
-    network: ws
-    port: 8080
-    server: 104.18.1.45
-    skip-cert-verify: true
-    tfo: true
-    tls: false
-    type: vmess
-    uuid: 35df5bdc-ab53-495a-9cda-045f958a5d51
-    ws-opts:
-      headers:
-        Host: buyvmus2.6bnw.top
-      path: /?ed=2560
-  - cipher: 2022-blake3-aes-256-gcm
-    name: "\U0001F534\U0001F1F2\U0001F1FD[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_935d339d"
-    password: mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:AAvo+BsgpvvR5lJsdQU32vrMXL7ZAbZJZfETB7bddhQ=
-    port: 13157
-    server: toy4lkdzy0c.22b74943-12ad-47f4-b705-f2defb6ffea0.org
-    tfo: false
+  - cipher: chacha20-ietf-poly1305
+    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F916✨✈️\U0001F50D]_github.com/Ruk1ng001_c5f030ab"
+    password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
+    port: 33003
+    server: v2a003.78787878.top
     type: ss
     udp: true
-  - name: "\U0001F534\U0001F1EE\U0001F1E9[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_df4d3628"
-    password: 467f2940-77cd-11ee-b5ed-f23c9164ca5d
-    port: 32233
-    server: 4a60b10b-t9zts0-ta42cg-1phla.id.oshuawei.com
-    sni: 4a60b10b-t9zts0-ta42cg-1phla.id.oshuawei.com
-    tls: true
-    type: http
-    username: 467f2940-77cd-11ee-b5ed-f23c9164ca5d
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA✨\U0001F50D]_github.com/Ruk1ng001_0c41c2a4"
-    password: <password>
-    port: 8443
-    server: 503cc7e8-ta1og0-taz53d-1j0y6.hkt.cdnhuawei.com
-    sni: 503cc7e8-ta1og0-taz53d-1j0y6.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: 1cce7df2-251c-11ee-9409-f23c9164ca5d
   - name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_3536474d"
     password: c5f50b0f-3c12-40ed-b63f-74f9c88316a5
     port: 55052
@@ -4931,13 +5187,6 @@ proxies:
     skip-cert-verify: true
     sni: www.h3yun.com
     type: trojan
-    udp: true
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F916✨✈️\U0001F50D]_github.com/Ruk1ng001_c5f030ab"
-    password: 2508007d-5bdc-4d7b-90d7-ab1552452d55
-    port: 33003
-    server: v2a003.78787878.top
-    type: ss
     udp: true
   - cipher: chacha20-ietf-poly1305
     name: "\U0001F7E2\U0001F1F9\U0001F1FC[\U0001F916\U0001F4FA\U0001F3AD✨]_github.com/Ruk1ng001_bdbdb0f2"
@@ -4953,32 +5202,17 @@ proxies:
     server: v1a01.78787878.top
     type: ss
     udp: true
-  - name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F916]_github.com/Ruk1ng001_6daf5dba"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55054
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
+  - alterId: 0
+    cipher: auto
+    name: "\U0001F534\U0001F1E9\U0001F1EA[\U0001F3AC\U0001F4FA\U0001F3AD\U0001F39E️]_github.com/Ruk1ng001_5c10bd89"
+    port: 6019
+    server: cn02.365cloud5878.com
+    skip-cert-verify: false
+    tls: false
+    type: vmess
     udp: true
-  - name: "\U0001F7E2\U0001F1FA\U0001F1F8[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_0a27d4d0"
-    password: 366efee9-09fd-4365-8873-63f77468999c
-    port: 55052
-    server: c80c993c-e6d4-548c-88c0-c4893b3d3d4d.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: "⚪\U0001F3F3️_github.com/Ruk1ng001_a7b51155"
-    network: tcp
-    password: 2072ff46-45f4-4de0-8099-c5bf240e0714
-    port: 56017
-    server: 01643afc-5ce0-4ddf-96a7-7c20300e0142.waimaosass.icu
-    skip-cert-verify: true
-    sni: www.volcengine.com
-    type: trojan
-    udp: true
+    uuid: 9f1ecfca-13a9-488d-ac84-aaeb73a8d574
+    xudp: true
   - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F4FA\U0001F3AD\U0001F3AA✨]_github.com/Ruk1ng001_75e5b59f"
     password: 5b6d572c-b0b0-4f21-9cb1-6fbb69a75cbf
     port: 55034
@@ -4999,153 +5233,6 @@ proxies:
     password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
     port: 38388
     server: 103.186.155.68
-    type: ss
-    udp: true
-  - name: "\U0001F7E2\U0001F1F8\U0001F1EC[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_60ccbe85"
-    password: 2440ddb9-14c8-429e-8c8a-d09636bb2131
-    port: 55032
-    server: f4d7f1c2f3b80976a5e2c1d4b3f0f321.358.onl
-    skip-cert-verify: true
-    sni: www.h3yun.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_450815b1"
-    network: tcp
-    port: 31411
-    reality-opts:
-      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
-      short-id: b4fae2dd
-    server: 54.64.31.75
-    servername: www.apple.com.cn
-    tls: true
-    type: vless
-    udp: true
-    uuid: 570129b2-fa71-4771-9c97-389f8c1a6a16
-    xudp: true
-  - client-fingerprint: chrome
-    encryption: none
-    flow: xtls-rprx-vision
-    name: "\U0001F534\U0001F1EF\U0001F1F5[\U0001F3AC\U0001F916\U0001F4FA\U0001F50D]_github.com/Ruk1ng001_4339baac"
-    network: tcp
-    port: 31411
-    reality-opts:
-      public-key: ZkyNg1t5tbUhpuI2wntM2xStOz3k0taZJDLaoJ17CHo
-      short-id: b4fae2dd
-    server: 54.64.31.75
-    servername: www.apple.com.cn
-    tls: true
-    type: vless
-    udp: true
-    uuid: e788f7b2-aae8-4d97-9a6b-769b554b3f63
-    xudp: true
-  - cipher: rc4-md5
-    name: "\U0001F534\U0001F1E7\U0001F1EA[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_497786de"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8738
-    server: efan9863.dns8656815.com
-    type: ss
-  - client-fingerprint: chrome
-    encryption: none
-    name: "⚪\U0001F3F3️_github.com/Ruk1ng001_b97e0902"
-    network: ws
-    port: 10554
-    server: 182.31.252.120
-    servername: snippet.fgfw.ndjp.net
-    tls: true
-    type: vless
-    udp: true
-    uuid: 948fac3c-42bf-41a6-a5f9-704d36ff0d8d
-    ws-opts:
-      headers:
-        Host: snippet.fgfw.ndjp.net
-        User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.1805 Safari/537.36 MVisionPlayer/1.0.0.0
-      path: /danfeng
-    xudp: true
-  - name: "\U0001F534\U0001F1ED\U0001F1F0[\U0001F4FA\U0001F3AD\U0001F39E️]_github.com/Ruk1ng001_024b3b29"
-    password: <password>
-    port: 8443
-    server: 15b72b06-ta1og0-ts3rye-mrtr.hkt.cdnhuawei.com
-    sni: 15b72b06-ta1og0-ts3rye-mrtr.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: 28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9
-  - name: "\U0001F7E1\U0001F1ED\U0001F1F0[\U0001F3AC\U0001F4FA\U0001F3AD✨]_github.com/Ruk1ng001_53bde187"
-    password: <password>
-    port: 8443
-    server: bd00c917-ta1og0-tfpsin-1q3dm.hkt.cdnhuawei.com
-    sni: bd00c917-ta1og0-tfpsin-1q3dm.hkt.cdnhuawei.com
-    tls: true
-    type: http
-    username: c1785de0-212f-11ef-92aa-f23c9164ca5d
-  - cipher: chacha20-ietf-poly1305
-    name: "\U0001F534\U0001F1E9\U0001F1EA[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_b264751e"
-    password: eb9aff96-654d-4b84-bfbd-30d57a927e4d
-    port: 41118
-    server: brd.network-cdn-gw-yd.net
-    type: ss
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA✨]_github.com/Ruk1ng001_883b4ab6"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.116
-    type: ss
-    udp: true
-  - client-fingerprint: chrome
-    name: "\U0001F534\U0001F1EE\U0001F1F3[\U0001F4FA\U0001F4E6\U0001F50D]_github.com/Ruk1ng001_69904b89"
-    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
-    port: 23006
-    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
-    skip-cert-verify: false
-    sni: 248.yuanul.com
-    type: trojan
-    udp: true
-  - cipher: rc4-md5
-    name: "\U0001F534\U0001F1E8\U0001F1ED[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_c88745c7"
-    password: efanccyun
-    plugin: obfs
-    plugin-opts:
-      host: 202601222350462-dVNbGD4Umj.download.microsoft.com
-      mode: http
-    port: 8731
-    server: efan9863.dns8656815.com
-    type: ss
-  - client-fingerprint: chrome
-    name: "\U0001F7E2\U0001F1F0\U0001F1F7[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AD]_github.com/Ruk1ng001_afaf7fd0"
-    password: d5fa43f9-1ace-4b8f-b865-627e67b1fe37
-    port: 48702
-    server: kr02.jsylianjie6.com
-    skip-cert-verify: true
-    sni: jsygouer.weixin-baidu-qq.com
-    type: trojan
-    udp: true
-  - client-fingerprint: chrome
-    name: "\U0001F7E2\U0001F1EF\U0001F1F5[\U0001F4FA\U0001F3AD\U0001F3AA✈️]_github.com/Ruk1ng001_19cb1e5d"
-    password: 24b6a0f7-eccb-441e-b2da-56ec3f6880f4
-    port: 12206
-    server: f533f9b2-c69a-4dd0-bc63-f2ab94dd5f53.f1eb10ae-1d82-4c6a-b4dd-bd9525520956.com
-    skip-cert-verify: false
-    sni: 123.yuanul.com
-    type: trojan
-    udp: true
-  - cipher: aes-256-cfb
-    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_9Mop9ksG"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.155.81
-    type: ss
-  - cipher: aes-256-cfb
-    name: "\U0001F7E2\U0001F1FB\U0001F1F3[\U0001F3AC\U0001F916\U0001F4FA\U0001F3AA]_github.com/Ruk1ng001_90de25de"
-    password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
-    port: 38388
-    server: 103.186.154.47
     type: ss
     udp: true
 #======cpend======
