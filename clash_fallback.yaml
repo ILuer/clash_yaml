@@ -5315,7 +5315,7 @@ profile:
 default: &default
   type: select
   proxies:
-#    - 直连
+    - 直连
 #   - 所有-手动
 #  - 所有-自动
     - 香港-故转
