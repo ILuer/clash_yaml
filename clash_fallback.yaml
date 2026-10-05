@@ -17,8 +17,8 @@
 #     proxy: 直连 
 
 proxies:
-  - {name: 直连, type: direct}
-  - {name: 拒绝, type: reject}
+    - {name: 直连, type: direct}
+    - {name: 拒绝, type: reject}
 #======cpstart======
     - name: "D\U0001F534\U0001F1ED\U0001F1F0hos[\U0001F4FA\U0001F3AD\U0001F39E️]_dokng.com_ff9ee1ab"
       port: 443
